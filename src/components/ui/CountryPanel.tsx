@@ -38,10 +38,21 @@ export function CountryPanel({
 }: CountryPanelProps) {
   const country = countryById.get(countryId);
 
-  const { groups, totalIn, totalOut, maxMagnitude } = useMemo(() => {
+  // Header subtotals are kept unit-honest: outstanding financial positions (stocks) and
+  // annual goods trade are summed separately, never together. Commodity (HS27 fuels) is a
+  // subset of total trade so it's excluded from the trade subtotal to avoid double
+  // counting, and the illustrative FDI/currency layers are excluded from all subtotals.
+  const STOCK_CLASSES: ReadonlySet<AssetClass> = useMemo(
+    () => new Set<AssetClass>(["bond", "equity", "banking"]),
+    []
+  );
+
+  const { groups, finIn, finOut, exportsTotal, importsTotal, maxMagnitude } = useMemo(() => {
     const groups = new Map<AssetClass, Row[]>();
-    let totalIn = 0;
-    let totalOut = 0;
+    let finIn = 0; // foreigners' holdings of / claims on this country (its liabilities)
+    let finOut = 0; // this country's holdings abroad (its assets)
+    let exportsTotal = 0;
+    let importsTotal = 0;
     let maxMagnitude = 1;
 
     for (const flow of flows) {
@@ -55,8 +66,13 @@ export function CountryPanel({
         magnitude: flow.magnitude,
         dataSource: flow.dataSource,
       };
-      if (isOut) totalOut += flow.magnitude;
-      if (isIn) totalIn += flow.magnitude;
+      if (STOCK_CLASSES.has(flow.assetClass)) {
+        if (isOut) finOut += flow.magnitude;
+        if (isIn) finIn += flow.magnitude;
+      } else if (flow.assetClass === "trade") {
+        if (isOut) exportsTotal += flow.magnitude;
+        if (isIn) importsTotal += flow.magnitude;
+      }
       maxMagnitude = Math.max(maxMagnitude, flow.magnitude);
 
       const list = groups.get(flow.assetClass) ?? [];
@@ -64,8 +80,8 @@ export function CountryPanel({
       groups.set(flow.assetClass, list);
     }
 
-    return { groups, totalIn, totalOut, maxMagnitude };
-  }, [countryId]);
+    return { groups, finIn, finOut, exportsTotal, importsTotal, maxMagnitude };
+  }, [countryId, STOCK_CLASSES]);
 
   return (
     <motion.div
@@ -117,13 +133,43 @@ export function CountryPanel({
         </button>
       </div>
 
-      <div className="mb-3 flex gap-4 font-mono text-xs text-slate-400">
-        <span>
-          Inflows <span className="text-emerald-400">${totalIn.toLocaleString()}bn</span>
-        </span>
-        <span>
-          Outflows <span className="text-amber-400">${totalOut.toLocaleString()}bn</span>
-        </span>
+      <div className="mb-3 flex flex-col gap-0.5 font-mono text-xs">
+        <div>
+          <span className="text-slate-500">Positions&nbsp;</span>
+          <span
+            className="text-emerald-400"
+            title="Outstanding stocks of bonds, equities and bank claims that foreign investors and banks hold in this country (its liabilities to the world)"
+          >
+            ${Math.round(finIn).toLocaleString()}bn foreign-held here
+          </span>
+          <span className="text-slate-600"> &middot; </span>
+          <span
+            className="text-amber-400"
+            title="Outstanding stocks of foreign bonds, equities and bank claims that this country's investors and banks hold abroad (its assets in the world)"
+          >
+            ${Math.round(finOut).toLocaleString()}bn held abroad
+          </span>
+        </div>
+        <div>
+          <span className="text-slate-500">Trade 2024&nbsp;</span>
+          <span
+            className="text-emerald-400"
+            title="Annual goods exports - earns foreign currency"
+          >
+            ${Math.round(exportsTotal).toLocaleString()}bn exports
+          </span>
+          <span className="text-slate-600"> &middot; </span>
+          <span
+            className="text-amber-400"
+            title="Annual goods imports - spends foreign currency"
+          >
+            ${Math.round(importsTotal).toLocaleString()}bn imports
+          </span>
+        </div>
+        <div className="text-[10px] leading-snug text-slate-600">
+          positions are accumulated stocks, trade is one year&apos;s flow - not comparable
+          &middot; illustrative layers excluded
+        </div>
       </div>
 
       {(() => {
@@ -247,22 +293,44 @@ export function CountryPanel({
                 {rows.slice(0, ROWS_SHOWN_PER_GROUP).map((row, i) => {
                   const counterpart = countryById.get(row.counterpartId)?.name ?? row.counterpartId;
                   const widthPct = Math.max(6, (row.magnitude / maxMagnitude) * 100);
+                  // Colors always mean money: emerald = money comes into this country,
+                  // amber = money goes out. For financial layers that matches the arrow
+                  // (X -> here means X invested here); for goods the money moves opposite
+                  // to the goods, so exports are emerald and imports amber - the words
+                  // make the goods direction explicit.
+                  const isGoods = assetClass === "trade" || assetClass === "commodity";
                   return (
                     <div key={`${row.counterpartId}-${i}`} className="flex items-center gap-2 text-xs">
-                      <span
-                        className={`w-32 flex-shrink-0 truncate ${
-                          row.direction === "in" ? "text-emerald-400" : "text-amber-400"
-                        }`}
-                        title={
-                          row.direction === "in"
-                            ? `inflow from ${counterpart}`
-                            : `outflow to ${counterpart}`
-                        }
-                      >
-                        {row.direction === "in" ? counterpart : "here"}
-                        <span className="mx-1 opacity-60">&rarr;</span>
-                        {row.direction === "in" ? "here" : counterpart}
-                      </span>
+                      {isGoods ? (
+                        <span
+                          className={`w-32 flex-shrink-0 truncate ${
+                            row.direction === "out" ? "text-emerald-400" : "text-amber-400"
+                          }`}
+                          title={
+                            row.direction === "out"
+                              ? `goods sold to ${counterpart} - earns foreign currency`
+                              : `goods bought from ${counterpart} - spends foreign currency`
+                          }
+                        >
+                          {row.direction === "out" ? "exports to " : "imports from "}
+                          {counterpart}
+                        </span>
+                      ) : (
+                        <span
+                          className={`w-32 flex-shrink-0 truncate ${
+                            row.direction === "in" ? "text-emerald-400" : "text-amber-400"
+                          }`}
+                          title={
+                            row.direction === "in"
+                              ? `${counterpart} holds this position here - foreign capital in this country`
+                              : `position held in ${counterpart} - this country's capital abroad`
+                          }
+                        >
+                          {row.direction === "in" ? counterpart : "here"}
+                          <span className="mx-1 opacity-60">&rarr;</span>
+                          {row.direction === "in" ? "here" : counterpart}
+                        </span>
+                      )}
                       <span className="h-1.5 flex-1 overflow-hidden rounded-full bg-white/5">
                         <span
                           className="block h-full rounded-full"
