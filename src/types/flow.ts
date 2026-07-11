@@ -5,7 +5,10 @@ export type AssetClass =
   | "banking"
   | "fdi"
   | "currency"
-  | "commodity";
+  | "commodity"
+  | "ores"
+  | "agri"
+  | "gold";
 
 export interface Country {
   id: string;

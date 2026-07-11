@@ -1179,6 +1179,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-au-cn",
+    "source": "AU",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 89.7,
+    "note": "UN Comtrade: Australia metal ore exports to China (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "trade-us-nl",
     "source": "US",
     "target": "NL",
@@ -2025,6 +2034,15 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-br-cn",
+    "source": "BR",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 45.4,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "equity-nl-jp",
     "source": "NL",
     "target": "JP",
@@ -2688,6 +2706,15 @@
     "assetClass": "equity",
     "magnitude": 29.9,
     "note": "IMF CPIS: Germany holds $29.9bn of Japan equities (2024-S1)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-cn",
+    "source": "BR",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 29.9,
+    "note": "UN Comtrade: Brazil metal ore exports to China (HS 26, 2023)",
     "dataSource": "real"
   },
   {
@@ -4077,6 +4104,15 @@
     "dataSource": "real"
   },
   {
+    "id": "gold-za-cn",
+    "source": "ZA",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 15.3,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to China (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "trade-sg-in",
     "source": "SG",
     "target": "IN",
@@ -4254,6 +4290,15 @@
     "assetClass": "trade",
     "magnitude": 14,
     "note": "IMF DOT: Germany goods exports to Canada, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ca-cn",
+    "source": "CA",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 14,
+    "note": "UN Comtrade: Canada precious metal & stone exports to China (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -4707,6 +4752,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-za-cn",
+    "source": "ZA",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 11.5,
+    "note": "UN Comtrade: South Africa metal ore exports to China (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-sa-ae",
     "source": "SA",
     "target": "AE",
@@ -4803,6 +4857,15 @@
     "assetClass": "trade",
     "magnitude": 11.2,
     "note": "IMF DOT: Qatar goods exports to India, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-cn",
+    "source": "AU",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 11.1,
+    "note": "UN Comtrade: Australia precious metal & stone exports to China (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -5634,6 +5697,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-au-jp",
+    "source": "AU",
+    "target": "JP",
+    "assetClass": "ores",
+    "magnitude": 7.9,
+    "note": "UN Comtrade: Australia metal ore exports to Japan (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-ch-no",
     "source": "CH",
     "target": "NO",
@@ -5886,6 +5958,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-au-kr",
+    "source": "AU",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 7.2,
+    "note": "UN Comtrade: Australia metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "equity-de-in",
     "source": "DE",
     "target": "IN",
@@ -5964,6 +6045,15 @@
     "assetClass": "banking",
     "magnitude": 7,
     "note": "BIS: Australia banks' cross-border claims on Germany (2024-Q4)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ca-gb",
+    "source": "CA",
+    "target": "GB",
+    "assetClass": "gold",
+    "magnitude": 7,
+    "note": "UN Comtrade: Canada precious metal & stone exports to the United Kingdom (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -6093,6 +6183,15 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-id-cn",
+    "source": "ID",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 6.7,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-jp-kr",
     "source": "JP",
     "target": "KR",
@@ -6108,6 +6207,15 @@
     "assetClass": "trade",
     "magnitude": 6.6,
     "note": "IMF DOT: South Korea goods exports to the United Kingdom, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-cn",
+    "source": "CA",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 6.6,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
     "dataSource": "real"
   },
   {
@@ -6903,6 +7011,15 @@
     "dataSource": "real"
   },
   {
+    "id": "gold-za-gb",
+    "source": "ZA",
+    "target": "GB",
+    "assetClass": "gold",
+    "magnitude": 5,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to the United Kingdom (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-au-no",
     "source": "AU",
     "target": "NO",
@@ -7245,6 +7362,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-ru-cn",
+    "source": "RU",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 4.4,
+    "note": "UN Comtrade: Russia metal ore exports to China (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-nl-in",
     "source": "NL",
     "target": "IN",
@@ -7335,6 +7461,15 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-au-cn",
+    "source": "AU",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 4.3,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-kr-de",
     "source": "KR",
     "target": "DE",
@@ -7413,6 +7548,15 @@
     "assetClass": "trade",
     "magnitude": 4.2,
     "note": "IMF DOT: South Africa goods exports to the Netherlands, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-cn",
+    "source": "RU",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 4.2,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
     "dataSource": "real"
   },
   {
@@ -7506,6 +7650,15 @@
     "dataSource": "real"
   },
   {
+    "id": "gold-za-jp",
+    "source": "ZA",
+    "target": "JP",
+    "assetClass": "gold",
+    "magnitude": 4.1,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Japan (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-jp-id",
     "source": "JP",
     "target": "ID",
@@ -7566,6 +7719,15 @@
     "assetClass": "trade",
     "magnitude": 4,
     "note": "IMF DOT: Nigeria goods exports to Germany, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-jp",
+    "source": "BR",
+    "target": "JP",
+    "assetClass": "ores",
+    "magnitude": 4,
+    "note": "UN Comtrade: Brazil metal ore exports to Japan (HS 26, 2023)",
     "dataSource": "real"
   },
   {
@@ -7719,6 +7881,15 @@
     "assetClass": "trade",
     "magnitude": 3.8,
     "note": "IMF DOT: Singapore goods exports to France, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-ae",
+    "source": "ZA",
+    "target": "AE",
+    "assetClass": "gold",
+    "magnitude": 3.8,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to the United Arab Emirates (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -7947,6 +8118,15 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-ca-cn",
+    "source": "CA",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 3.4,
+    "note": "UN Comtrade: Canada metal ore exports to China (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "equity-cn-de",
     "source": "CN",
     "target": "DE",
@@ -8061,6 +8241,15 @@
     "assetClass": "trade",
     "magnitude": 3.2,
     "note": "IMF DOT: Mexico goods exports to the United Kingdom, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-cn",
+    "source": "SG",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 3.2,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to China (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -8280,6 +8469,15 @@
     "dataSource": "real"
   },
   {
+    "id": "gold-ae-sa",
+    "source": "AE",
+    "target": "SA",
+    "assetClass": "gold",
+    "magnitude": 2.9,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Saudi Arabia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "banking-jp-qa",
     "source": "JP",
     "target": "QA",
@@ -8385,6 +8583,15 @@
     "assetClass": "commodity",
     "magnitude": 2.7,
     "note": "UN Comtrade: Qatar mineral fuel exports to the Netherlands (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-id-cn",
+    "source": "ID",
+    "target": "CN",
+    "assetClass": "ores",
+    "magnitude": 2.7,
+    "note": "UN Comtrade: Indonesia metal ore exports to China (HS 26, 2023)",
     "dataSource": "real"
   },
   {
@@ -8577,6 +8784,15 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-br-jp",
+    "source": "BR",
+    "target": "JP",
+    "assetClass": "agri",
+    "magnitude": 2.5,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Japan (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-ca-id",
     "source": "CA",
     "target": "ID",
@@ -8637,6 +8853,15 @@
     "assetClass": "trade",
     "magnitude": 2.4,
     "note": "IMF DOT: Mexico goods exports to the Netherlands, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-de",
+    "source": "ZA",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 2.4,
+    "note": "UN Comtrade: South Africa metal ore exports to Germany (HS 26, 2023)",
     "dataSource": "real"
   },
   {
@@ -8901,6 +9126,15 @@
     "dataSource": "real"
   },
   {
+    "id": "gold-au-gb",
+    "source": "AU",
+    "target": "GB",
+    "assetClass": "gold",
+    "magnitude": 2.2,
+    "note": "UN Comtrade: Australia precious metal & stone exports to the United Kingdom (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-ca-no",
     "source": "CA",
     "target": "NO",
@@ -9117,6 +9351,24 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-br-vn",
+    "source": "BR",
+    "target": "VN",
+    "assetClass": "agri",
+    "magnitude": 2,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Vietnam (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-sg",
+    "source": "AU",
+    "target": "SG",
+    "assetClass": "gold",
+    "magnitude": 2,
+    "note": "UN Comtrade: Australia precious metal & stone exports to Singapore (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-cn-ch",
     "source": "CN",
     "target": "CH",
@@ -9213,6 +9465,42 @@
     "assetClass": "commodity",
     "magnitude": 1.9,
     "note": "UN Comtrade: Australia mineral fuel exports to Brazil (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-jp",
+    "source": "CA",
+    "target": "JP",
+    "assetClass": "ores",
+    "magnitude": 1.9,
+    "note": "UN Comtrade: Canada metal ore exports to Japan (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-de",
+    "source": "CA",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 1.9,
+    "note": "UN Comtrade: Canada metal ore exports to Germany (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-id-jp",
+    "source": "ID",
+    "target": "JP",
+    "assetClass": "ores",
+    "magnitude": 1.9,
+    "note": "UN Comtrade: Indonesia metal ore exports to Japan (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-jp",
+    "source": "CA",
+    "target": "JP",
+    "assetClass": "agri",
+    "magnitude": 1.9,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Japan (HS 10+12+15, 2023)",
     "dataSource": "real"
   },
   {
@@ -9348,6 +9636,24 @@
     "assetClass": "commodity",
     "magnitude": 1.8,
     "note": "UN Comtrade: Qatar mineral fuel exports to the United Kingdom (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-de",
+    "source": "BR",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 1.8,
+    "note": "UN Comtrade: Brazil metal ore exports to Germany (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-jp",
+    "source": "AU",
+    "target": "JP",
+    "assetClass": "agri",
+    "magnitude": 1.8,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Japan (HS 10+12+15, 2023)",
     "dataSource": "real"
   },
   {
@@ -9492,6 +9798,15 @@
     "assetClass": "trade",
     "magnitude": 1.7,
     "note": "IMF DOT: Nigeria goods exports to Japan, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-de",
+    "source": "ZA",
+    "target": "DE",
+    "assetClass": "gold",
+    "magnitude": 1.7,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Germany (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -9684,6 +9999,15 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-br-mx",
+    "source": "BR",
+    "target": "MX",
+    "assetClass": "agri",
+    "magnitude": 1.6,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Mexico (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-jp-br",
     "source": "JP",
     "target": "BR",
@@ -9828,6 +10152,24 @@
     "dataSource": "real"
   },
   {
+    "id": "agri-br-kr",
+    "source": "BR",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 1.5,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-id",
+    "source": "AU",
+    "target": "ID",
+    "assetClass": "agri",
+    "magnitude": 1.5,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Indonesia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-us-ru",
     "source": "US",
     "target": "RU",
@@ -9951,6 +10293,15 @@
     "assetClass": "trade",
     "magnitude": 1.4,
     "note": "IMF DOT: Australia goods exports to Switzerland, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-ca",
+    "source": "ZA",
+    "target": "CA",
+    "assetClass": "gold",
+    "magnitude": 1.4,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Canada (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -10086,6 +10437,24 @@
     "assetClass": "trade",
     "magnitude": 1.3,
     "note": "IMF DOT: Norway goods exports to South Korea, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-id-kr",
+    "source": "ID",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 1.3,
+    "note": "UN Comtrade: Indonesia metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-mx",
+    "source": "CA",
+    "target": "MX",
+    "assetClass": "agri",
+    "magnitude": 1.3,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Mexico (HS 10+12+15, 2023)",
     "dataSource": "real"
   },
   {
@@ -10242,6 +10611,33 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-ca-kr",
+    "source": "CA",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 1.2,
+    "note": "UN Comtrade: Canada metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-kr",
+    "source": "AU",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 1.2,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-vn",
+    "source": "AU",
+    "target": "VN",
+    "assetClass": "agri",
+    "magnitude": 1.2,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Vietnam (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-ca-sg",
     "source": "CA",
     "target": "SG",
@@ -10374,6 +10770,51 @@
     "assetClass": "commodity",
     "magnitude": 1.1,
     "note": "UN Comtrade: Russia mineral fuel exports to Indonesia (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-vn",
+    "source": "AU",
+    "target": "VN",
+    "assetClass": "ores",
+    "magnitude": 1.1,
+    "note": "UN Comtrade: Australia metal ore exports to Vietnam (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-kr",
+    "source": "BR",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 1.1,
+    "note": "UN Comtrade: Brazil metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-sa",
+    "source": "RU",
+    "target": "SA",
+    "assetClass": "agri",
+    "magnitude": 1.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Saudi Arabia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-id",
+    "source": "CA",
+    "target": "ID",
+    "assetClass": "agri",
+    "magnitude": 1.1,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Indonesia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-sg",
+    "source": "AE",
+    "target": "SG",
+    "assetClass": "gold",
+    "magnitude": 1.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Singapore (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -10545,6 +10986,15 @@
     "assetClass": "commodity",
     "magnitude": 1,
     "note": "UN Comtrade: the United Arab Emirates mineral fuel exports to Brazil (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-id",
+    "source": "AU",
+    "target": "ID",
+    "assetClass": "ores",
+    "magnitude": 1,
+    "note": "UN Comtrade: Australia metal ore exports to Indonesia (HS 26, 2023)",
     "dataSource": "real"
   },
   {
@@ -10779,6 +11229,33 @@
     "assetClass": "commodity",
     "magnitude": 0.9,
     "note": "UN Comtrade: Russia mineral fuel exports to Vietnam (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-kr",
+    "source": "ZA",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 0.9,
+    "note": "UN Comtrade: South Africa metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-de",
+    "source": "AU",
+    "target": "DE",
+    "assetClass": "agri",
+    "magnitude": 0.9,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Germany (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-ae",
+    "source": "GB",
+    "target": "AE",
+    "assetClass": "gold",
+    "magnitude": 0.9,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to the United Arab Emirates (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -11022,6 +11499,33 @@
     "assetClass": "commodity",
     "magnitude": 0.8,
     "note": "UN Comtrade: the United Arab Emirates mineral fuel exports to the Netherlands (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-sa",
+    "source": "BR",
+    "target": "SA",
+    "assetClass": "agri",
+    "magnitude": 0.8,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Saudi Arabia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-nl",
+    "source": "BR",
+    "target": "NL",
+    "assetClass": "agri",
+    "magnitude": 0.8,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to the Netherlands (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-id",
+    "source": "AU",
+    "target": "ID",
+    "assetClass": "gold",
+    "magnitude": 0.8,
+    "note": "UN Comtrade: Australia precious metal & stone exports to Indonesia (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -11274,6 +11778,69 @@
     "assetClass": "commodity",
     "magnitude": 0.7,
     "note": "UN Comtrade: Qatar mineral fuel exports to Indonesia (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-jp",
+    "source": "ZA",
+    "target": "JP",
+    "assetClass": "ores",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: South Africa metal ore exports to Japan (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-gb",
+    "source": "ZA",
+    "target": "GB",
+    "assetClass": "ores",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: South Africa metal ore exports to the United Kingdom (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-ru",
+    "source": "BR",
+    "target": "RU",
+    "assetClass": "agri",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Russia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-ae",
+    "source": "AU",
+    "target": "AE",
+    "assetClass": "agri",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to the United Arab Emirates (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-vn",
+    "source": "ID",
+    "target": "VN",
+    "assetClass": "agri",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Vietnam (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-vn-id",
+    "source": "VN",
+    "target": "ID",
+    "assetClass": "agri",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: Vietnam grain, oilseed & vegetable oil exports to Indonesia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ca-ae",
+    "source": "CA",
+    "target": "AE",
+    "assetClass": "gold",
+    "magnitude": 0.7,
+    "note": "UN Comtrade: Canada precious metal & stone exports to the United Arab Emirates (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -11583,6 +12150,87 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-br-vn",
+    "source": "BR",
+    "target": "VN",
+    "assetClass": "ores",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Brazil metal ore exports to Vietnam (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-id-de",
+    "source": "ID",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Indonesia metal ore exports to Germany (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-ru",
+    "source": "ID",
+    "target": "RU",
+    "assetClass": "agri",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Russia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-vn-cn",
+    "source": "VN",
+    "target": "CN",
+    "assetClass": "agri",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Vietnam grain, oilseed & vegetable oil exports to China (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-kr",
+    "source": "ZA",
+    "target": "KR",
+    "assetClass": "gold",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to South Korea (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-ae",
+    "source": "AU",
+    "target": "AE",
+    "assetClass": "gold",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Australia precious metal & stone exports to the United Arab Emirates (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-kr",
+    "source": "AU",
+    "target": "KR",
+    "assetClass": "gold",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Australia precious metal & stone exports to South Korea (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-de",
+    "source": "GB",
+    "target": "DE",
+    "assetClass": "gold",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to Germany (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-ae",
+    "source": "SG",
+    "target": "AE",
+    "assetClass": "gold",
+    "magnitude": 0.6,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to the United Arab Emirates (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-jp-za",
     "source": "JP",
     "target": "ZA",
@@ -11868,6 +12516,51 @@
     "assetClass": "trade",
     "magnitude": 0.5,
     "note": "IMF DOT: Norway goods exports to Vietnam, FOB (2024)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-id",
+    "source": "BR",
+    "target": "ID",
+    "assetClass": "agri",
+    "magnitude": 0.5,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Indonesia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-ke",
+    "source": "RU",
+    "target": "KE",
+    "assetClass": "agri",
+    "magnitude": 0.5,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Kenya (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-sa",
+    "source": "AU",
+    "target": "SA",
+    "assetClass": "agri",
+    "magnitude": 0.5,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Saudi Arabia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-nl",
+    "source": "ID",
+    "target": "NL",
+    "assetClass": "agri",
+    "magnitude": 0.5,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to the Netherlands (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-cn",
+    "source": "AE",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 0.5,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to China (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -12237,6 +12930,105 @@
     "assetClass": "commodity",
     "magnitude": 0.4,
     "note": "UN Comtrade: the United Arab Emirates mineral fuel exports to Vietnam (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-de",
+    "source": "AU",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Australia metal ore exports to Germany (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-gb",
+    "source": "BR",
+    "target": "GB",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to the United Kingdom (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-gb",
+    "source": "CA",
+    "target": "GB",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to the United Kingdom (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-ng",
+    "source": "CA",
+    "target": "NG",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Nigeria (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-sg",
+    "source": "AU",
+    "target": "SG",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Singapore (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-de",
+    "source": "ID",
+    "target": "DE",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Germany (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-br",
+    "source": "ID",
+    "target": "BR",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Brazil (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-sa",
+    "source": "ID",
+    "target": "SA",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Saudi Arabia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-kr",
+    "source": "ID",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-za",
+    "source": "ID",
+    "target": "ZA",
+    "assetClass": "agri",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to South Africa (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-ca",
+    "source": "AU",
+    "target": "CA",
+    "assetClass": "gold",
+    "magnitude": 0.4,
+    "note": "UN Comtrade: Australia precious metal & stone exports to Canada (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -12633,6 +13425,96 @@
     "assetClass": "commodity",
     "magnitude": 0.3,
     "note": "UN Comtrade: Qatar mineral fuel exports to South Africa (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-nl",
+    "source": "BR",
+    "target": "NL",
+    "assetClass": "ores",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Brazil metal ore exports to the Netherlands (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-mx",
+    "source": "BR",
+    "target": "MX",
+    "assetClass": "ores",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Brazil metal ore exports to Mexico (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-br",
+    "source": "RU",
+    "target": "BR",
+    "assetClass": "agri",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Brazil (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-id",
+    "source": "RU",
+    "target": "ID",
+    "assetClass": "agri",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Indonesia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-mx",
+    "source": "AU",
+    "target": "MX",
+    "assetClass": "agri",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Mexico (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-sg",
+    "source": "ID",
+    "target": "SG",
+    "assetClass": "agri",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Singapore (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-gb",
+    "source": "AE",
+    "target": "GB",
+    "assetClass": "gold",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to the United Kingdom (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-cn",
+    "source": "GB",
+    "target": "CN",
+    "assetClass": "gold",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to China (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-qa",
+    "source": "SG",
+    "target": "QA",
+    "assetClass": "gold",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to Qatar (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ca-au",
+    "source": "CA",
+    "target": "AU",
+    "assetClass": "gold",
+    "magnitude": 0.3,
+    "note": "UN Comtrade: Canada precious metal & stone exports to Australia (HS 71, 2023)",
     "dataSource": "real"
   },
   {
@@ -13248,6 +14130,213 @@
     "dataSource": "real"
   },
   {
+    "id": "ores-au-ca",
+    "source": "AU",
+    "target": "CA",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Australia metal ore exports to Canada (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-ca",
+    "source": "BR",
+    "target": "CA",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Brazil metal ore exports to Canada (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-id",
+    "source": "BR",
+    "target": "ID",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Brazil metal ore exports to Indonesia (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-id",
+    "source": "ZA",
+    "target": "ID",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: South Africa metal ore exports to Indonesia (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-gb",
+    "source": "CA",
+    "target": "GB",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Canada metal ore exports to the United Kingdom (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-nl",
+    "source": "CA",
+    "target": "NL",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Canada metal ore exports to the Netherlands (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ru-de",
+    "source": "RU",
+    "target": "DE",
+    "assetClass": "ores",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Russia metal ore exports to Germany (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-ae",
+    "source": "RU",
+    "target": "AE",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to the United Arab Emirates (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-ng",
+    "source": "RU",
+    "target": "NG",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Nigeria (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-ae",
+    "source": "CA",
+    "target": "AE",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to the United Arab Emirates (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-kr",
+    "source": "CA",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-vn",
+    "source": "CA",
+    "target": "VN",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Vietnam (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-nl",
+    "source": "AU",
+    "target": "NL",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to the Netherlands (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-gb",
+    "source": "ID",
+    "target": "GB",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to the United Kingdom (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-ae",
+    "source": "ID",
+    "target": "AE",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to the United Arab Emirates (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-ke",
+    "source": "ID",
+    "target": "KE",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Kenya (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-vn-sg",
+    "source": "VN",
+    "target": "SG",
+    "assetClass": "agri",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Vietnam grain, oilseed & vegetable oil exports to Singapore (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-id",
+    "source": "AE",
+    "target": "ID",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Indonesia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-jp",
+    "source": "AU",
+    "target": "JP",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Australia precious metal & stone exports to Japan (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-jp",
+    "source": "GB",
+    "target": "JP",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to Japan (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-nl",
+    "source": "GB",
+    "target": "NL",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to the Netherlands (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-jp",
+    "source": "SG",
+    "target": "JP",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to Japan (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-id",
+    "source": "SG",
+    "target": "ID",
+    "assetClass": "gold",
+    "magnitude": 0.2,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to Indonesia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
     "id": "bond-cn-no",
     "source": "CN",
     "target": "NO",
@@ -13848,6 +14937,438 @@
     "assetClass": "commodity",
     "magnitude": 0.1,
     "note": "UN Comtrade: Qatar mineral fuel exports to Vietnam (HS 27, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-gb",
+    "source": "AU",
+    "target": "GB",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia metal ore exports to the United Kingdom (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-nl",
+    "source": "AU",
+    "target": "NL",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia metal ore exports to the Netherlands (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-au-mx",
+    "source": "AU",
+    "target": "MX",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia metal ore exports to Mexico (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-gb",
+    "source": "BR",
+    "target": "GB",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Brazil metal ore exports to the United Kingdom (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-br-qa",
+    "source": "BR",
+    "target": "QA",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Brazil metal ore exports to Qatar (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-ca",
+    "source": "ZA",
+    "target": "CA",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa metal ore exports to Canada (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-nl",
+    "source": "ZA",
+    "target": "NL",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa metal ore exports to the Netherlands (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-za-mx",
+    "source": "ZA",
+    "target": "MX",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa metal ore exports to Mexico (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-mx",
+    "source": "CA",
+    "target": "MX",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada metal ore exports to Mexico (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ca-qa",
+    "source": "CA",
+    "target": "QA",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada metal ore exports to Qatar (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "ores-ru-kr",
+    "source": "RU",
+    "target": "KR",
+    "assetClass": "ores",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia metal ore exports to South Korea (HS 26, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-de",
+    "source": "BR",
+    "target": "DE",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to Germany (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-ae",
+    "source": "BR",
+    "target": "AE",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to the United Arab Emirates (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-br-za",
+    "source": "BR",
+    "target": "ZA",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Brazil grain, oilseed & vegetable oil exports to South Africa (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-de",
+    "source": "RU",
+    "target": "DE",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Germany (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-kr",
+    "source": "RU",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-mx",
+    "source": "RU",
+    "target": "MX",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Mexico (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-vn",
+    "source": "RU",
+    "target": "VN",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to Vietnam (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ru-za",
+    "source": "RU",
+    "target": "ZA",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Russia grain, oilseed & vegetable oil exports to South Africa (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-de",
+    "source": "CA",
+    "target": "DE",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Germany (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-sg",
+    "source": "CA",
+    "target": "SG",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Singapore (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-nl",
+    "source": "CA",
+    "target": "NL",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to the Netherlands (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-ca-au",
+    "source": "CA",
+    "target": "AU",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada grain, oilseed & vegetable oil exports to Australia (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-gb",
+    "source": "AU",
+    "target": "GB",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to the United Kingdom (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-za",
+    "source": "AU",
+    "target": "ZA",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to South Africa (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-qa",
+    "source": "AU",
+    "target": "QA",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Qatar (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-au-ke",
+    "source": "AU",
+    "target": "KE",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia grain, oilseed & vegetable oil exports to Kenya (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-jp",
+    "source": "ID",
+    "target": "JP",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Japan (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-ca",
+    "source": "ID",
+    "target": "CA",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Canada (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-mx",
+    "source": "ID",
+    "target": "MX",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Mexico (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-id-ng",
+    "source": "ID",
+    "target": "NG",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Indonesia grain, oilseed & vegetable oil exports to Nigeria (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "agri-vn-kr",
+    "source": "VN",
+    "target": "KR",
+    "assetClass": "agri",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Vietnam grain, oilseed & vegetable oil exports to South Korea (HS 10+12+15, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-jp",
+    "source": "AE",
+    "target": "JP",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Japan (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-ru",
+    "source": "AE",
+    "target": "RU",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Russia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-kr",
+    "source": "AE",
+    "target": "KR",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to South Korea (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-au",
+    "source": "AE",
+    "target": "AU",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Australia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ae-qa",
+    "source": "AE",
+    "target": "QA",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Arab Emirates precious metal & stone exports to Qatar (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-br",
+    "source": "ZA",
+    "target": "BR",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Brazil (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-sa",
+    "source": "ZA",
+    "target": "SA",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Saudi Arabia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-za-sg",
+    "source": "ZA",
+    "target": "SG",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: South Africa precious metal & stone exports to Singapore (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-au-de",
+    "source": "AU",
+    "target": "DE",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Australia precious metal & stone exports to Germany (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-ca",
+    "source": "GB",
+    "target": "CA",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to Canada (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-kr",
+    "source": "GB",
+    "target": "KR",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to South Korea (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-gb-au",
+    "source": "GB",
+    "target": "AU",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: the United Kingdom precious metal & stone exports to Australia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-de",
+    "source": "SG",
+    "target": "DE",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to Germany (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-gb",
+    "source": "SG",
+    "target": "GB",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to the United Kingdom (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-sg-au",
+    "source": "SG",
+    "target": "AU",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Singapore precious metal & stone exports to Australia (HS 71, 2023)",
+    "dataSource": "real"
+  },
+  {
+    "id": "gold-ca-de",
+    "source": "CA",
+    "target": "DE",
+    "assetClass": "gold",
+    "magnitude": 0.1,
+    "note": "UN Comtrade: Canada precious metal & stone exports to Germany (HS 71, 2023)",
     "dataSource": "real"
   }
 ]

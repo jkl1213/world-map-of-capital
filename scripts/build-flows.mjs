@@ -21,6 +21,9 @@ const FLOORS_USD = {
   banking: 0.1e9,
   trade: 0.05e9,
   commodity: 0.05e9,
+  ores: 0.05e9,
+  agri: 0.05e9,
+  gold: 0.05e9,
 };
 
 const NOTE_BUILDERS = {
@@ -34,6 +37,12 @@ const NOTE_BUILDERS = {
     `IMF DOT: ${countryNames[s]} goods exports to ${countryNames[t]}, FOB (${period})`,
   commodity: (s, t, mag, period) =>
     `UN Comtrade: ${countryNames[s]} mineral fuel exports to ${countryNames[t]} (HS 27, ${period})`,
+  ores: (s, t, mag, period) =>
+    `UN Comtrade: ${countryNames[s]} metal ore exports to ${countryNames[t]} (HS 26, ${period})`,
+  agri: (s, t, mag, period) =>
+    `UN Comtrade: ${countryNames[s]} grain, oilseed & vegetable oil exports to ${countryNames[t]} (HS 10+12+15, ${period})`,
+  gold: (s, t, mag, period) =>
+    `UN Comtrade: ${countryNames[s]} precious metal & stone exports to ${countryNames[t]} (HS 71, ${period})`,
 };
 
 function isFiniteNumber(v) {
@@ -45,8 +54,19 @@ async function main() {
     await readFile(new URL("./output/real-flows.json", import.meta.url), "utf8")
   );
 
+  // Extra commodity categories (ores/agri/gold) live in their own output file,
+  // written incrementally by fetch-commodities-extra.mjs; merge if present.
+  try {
+    const extra = JSON.parse(
+      await readFile(new URL("./output/commodities-extra.json", import.meta.url), "utf8")
+    );
+    for (const cat of ["ores", "agri", "gold"]) raw[cat] = extra[cat] ?? [];
+  } catch {
+    console.log("(no commodities-extra.json yet - skipping ores/agri/gold)");
+  }
+
   const flows = [];
-  for (const assetClass of ["bond", "equity", "banking", "trade", "commodity"]) {
+  for (const assetClass of ["bond", "equity", "banking", "trade", "commodity", "ores", "agri", "gold"]) {
     const floor = FLOORS_USD[assetClass];
     for (const rec of raw[assetClass] ?? []) {
       if (!isFiniteNumber(rec.usd) || rec.usd < floor) continue;

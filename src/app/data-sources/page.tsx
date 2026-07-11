@@ -67,8 +67,8 @@ export default function DataSourcesPage() {
           Every flow on the map carries a note stating exactly which statistical series it
           came from and for which period (hover any line to see it). This page explains
           what each source actually measures, how the raw numbers were processed, how you
-          can check them against independent references, and where they are weak. Five of
-          the seven layers are real published statistics pulled from free public APIs;
+          can check them against independent references, and where they are weak. Eight of
+          the ten layers are real published statistics pulled from free public APIs;
           two (FDI and Currency) are hand-authored illustrations and are labeled as such
           everywhere they appear.
         </p>
@@ -116,10 +116,31 @@ export default function DataSourcesPage() {
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
-                <td className="px-3 py-2"><Dot assetClass="commodity" />Commodities</td>
+                <td className="px-3 py-2"><Dot assetClass="commodity" />Fossil fuels</td>
                 <td className="px-3 py-2">UN Comtrade</td>
                 <td className="px-3 py-2">2023</td>
                 <td className="px-3 py-2 font-mono">70</td>
+                <td className="px-3 py-2">annual flow</td>
+              </tr>
+              <tr className="border-b border-white/5">
+                <td className="px-3 py-2"><Dot assetClass="ores" />Ores &amp; metals</td>
+                <td className="px-3 py-2">UN Comtrade</td>
+                <td className="px-3 py-2">2023</td>
+                <td className="px-3 py-2 font-mono">45</td>
+                <td className="px-3 py-2">annual flow</td>
+              </tr>
+              <tr className="border-b border-white/5">
+                <td className="px-3 py-2"><Dot assetClass="agri" />Agriculture</td>
+                <td className="px-3 py-2">UN Comtrade</td>
+                <td className="px-3 py-2">2023</td>
+                <td className="px-3 py-2 font-mono">74</td>
+                <td className="px-3 py-2">annual flow</td>
+              </tr>
+              <tr className="border-b border-white/5">
+                <td className="px-3 py-2"><Dot assetClass="gold" />Gold &amp; precious</td>
+                <td className="px-3 py-2">UN Comtrade</td>
+                <td className="px-3 py-2">2023</td>
+                <td className="px-3 py-2 font-mono">50</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
@@ -258,28 +279,56 @@ export default function DataSourcesPage() {
         {/* ------------------------------------------------ Comtrade */}
         <SectionTitle>
           <Dot assetClass="commodity" />
-          Commodities &mdash; UN Comtrade <span className="ml-2"><SourceBadge kind="real" /></span>
+          <Dot assetClass="ores" />
+          <Dot assetClass="agri" />
+          <Dot assetClass="gold" />
+          Commodity layers &mdash; UN Comtrade <span className="ml-2"><SourceBadge kind="real" /></span>
         </SectionTitle>
         <div className="space-y-3 text-[15px] leading-relaxed">
           <p>
-            The commodity layer isolates <strong className="text-slate-200">mineral fuels
-            (HS code 27: crude oil, gas, coal, refined products)</strong> for six major
-            energy exporters &mdash; Saudi Arabia, UAE, Russia, Norway, Qatar and
-            Australia &mdash; using the{" "}
-            <ExtLink href="https://comtradeplus.un.org/">UN Comtrade</ExtLink> public API,
-            2023 annual values. We prefer the importer&apos;s &ldquo;mirror&rdquo; report
-            (the buyer&apos;s customs data) and fall back to the exporter&apos;s
-            self-report; this matters for Russia, whose own reporting stopped being
-            reliable after 2022 while China&apos;s and India&apos;s customs data still
-            capture what they buy.
+            Four layers isolate specific product groups from the{" "}
+            <ExtLink href="https://comtradeplus.un.org/">UN Comtrade</ExtLink> public API
+            (2023 annual values), each fetched for the plausible major exporters among
+            our 25 countries:
+          </p>
+          <ul className="list-disc space-y-1.5 pl-5">
+            <li>
+              <strong className="text-slate-200">Fossil fuels (HS 27)</strong> &mdash;
+              crude oil, gas, coal, refined products. Exporters: Saudi Arabia, UAE,
+              Russia, Norway, Qatar, Australia.
+            </li>
+            <li>
+              <strong className="text-slate-200">Ores &amp; metals (HS 26)</strong> &mdash;
+              iron ore, copper, nickel, lithium. Exporters: Australia, Brazil, South
+              Africa, Canada, Indonesia, Russia. Australia&rarr;China ($89.7bn, mostly
+              iron ore) is the largest non-fuel commodity corridor in the world.
+            </li>
+            <li>
+              <strong className="text-slate-200">Agriculture (HS 10+12+15)</strong> &mdash;
+              cereals, oilseeds and vegetable oils (wheat, corn, soybeans, palm oil).
+              Exporters: Brazil, Russia, Canada, Australia, Indonesia, Vietnam.
+            </li>
+            <li>
+              <strong className="text-slate-200">Gold &amp; precious (HS 71)</strong> &mdash;
+              gold bullion, silver, platinum, diamonds. Exporters: UAE, South Africa,
+              Australia, UK, Singapore, Canada.
+            </li>
+          </ul>
+          <p>
+            We prefer the importer&apos;s &ldquo;mirror&rdquo; report (the buyer&apos;s
+            customs data) and fall back to the exporter&apos;s self-report; this matters
+            for Russia, whose own reporting stopped being reliable after 2022 while
+            China&apos;s customs data still capture what they buy.
           </p>
           <p>
-            <strong className="text-slate-200">Known weaknesses:</strong> 88 of 144
-            possible exporter-partner pairs returned data (70 survive the materiality
-            floor); the remainder are genuinely unreported in the free tier rather than
-            zero. Sanctioned trade routed through intermediaries (e.g. Russian crude
-            re-exported via third countries) shows up under the intermediary, not the
-            origin.
+            <strong className="text-slate-200">Known weaknesses:</strong> the free
+            tier&apos;s exclusion of the US, France, India, Switzerland and Norway bites
+            hardest here &mdash; no US soybean or corn exports (a top-3 agricultural
+            exporter), no Switzerland gold (the world&apos;s refining hub), no Indian
+            food and gold imports. Pairs that returned no data are genuinely unreported
+            in the free tier rather than zero, and sanctioned trade routed through
+            intermediaries (e.g. Russian crude re-exported via third countries) shows up
+            under the intermediary, not the origin.
           </p>
         </div>
 
@@ -393,6 +442,11 @@ export default function DataSourcesPage() {
                 <td className="px-3 py-2">Chinese customs: ~$95bn of Russian energy imports (2023)</td>
                 <td className="px-3 py-2 text-emerald-400">consistent</td>
               </tr>
+              <tr className="border-b border-white/5">
+                <td className="px-3 py-2">Australia &rarr; China metal ores $89.7bn (2023)</td>
+                <td className="px-3 py-2">Chinese customs: ~$90bn of Australian ore imports, dominated by iron ore (2023)</td>
+                <td className="px-3 py-2 text-emerald-400">consistent</td>
+              </tr>
               <tr>
                 <td className="px-3 py-2">China holds $142.9bn of US debt securities</td>
                 <td className="px-3 py-2">US TIC attributes ~$770bn to China (2024)</td>
@@ -451,7 +505,8 @@ export default function DataSourcesPage() {
           <ul className="list-disc space-y-1.5 pl-5 font-mono text-[13px] text-slate-400">
             <li>fetch-real-data.mjs &mdash; CPIS bonds/equities + BIS banking via DBnomics</li>
             <li>fetch-dot-trade.mjs &mdash; IMF DOT trade, all 600 pairs</li>
-            <li>fetch-trade-corrected.mjs &mdash; UN Comtrade HS27 commodities (resumable)</li>
+            <li>fetch-trade-corrected.mjs &mdash; UN Comtrade HS27 fossil fuels (resumable)</li>
+            <li>fetch-commodities-extra.mjs &mdash; UN Comtrade ores/agriculture/gold (resumable)</li>
             <li>fetch-country-profiles.mjs &mdash; World Bank country indicators</li>
             <li>build-flows.mjs &mdash; applies floors, rounding, and source notes</li>
           </ul>

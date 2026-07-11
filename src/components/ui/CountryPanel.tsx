@@ -298,7 +298,12 @@ export function CountryPanel({
                   // (X -> here means X invested here); for goods the money moves opposite
                   // to the goods, so exports are emerald and imports amber - the words
                   // make the goods direction explicit.
-                  const isGoods = assetClass === "trade" || assetClass === "commodity";
+                  const isGoods =
+                    assetClass === "trade" ||
+                    assetClass === "commodity" ||
+                    assetClass === "ores" ||
+                    assetClass === "agri" ||
+                    assetClass === "gold";
                   return (
                     <div key={`${row.counterpartId}-${i}`} className="flex items-center gap-2 text-xs">
                       {isGoods ? (

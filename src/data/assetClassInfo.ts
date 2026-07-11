@@ -33,6 +33,21 @@ export const assetClassInfo: Record<AssetClass, AssetClassInfo> = {
       "Mineral-fuel exports (crude oil, gas, coal - HS code 27). \"A → B\" means A exported this much fuel to B - the largest single commodity slice of world goods trade.",
     source: "UN Comtrade, 2023",
   },
+  ores: {
+    definition:
+      "Metal-ore exports (iron ore, copper, nickel, lithium - HS code 26). \"A → B\" means A shipped this much raw ore to B - the feedstock of steelmaking and the energy transition.",
+    source: "UN Comtrade, 2023",
+  },
+  agri: {
+    definition:
+      "Agricultural staples: cereals, oilseeds and vegetable oils (HS codes 10, 12, 15 - wheat, corn, soybeans, palm oil). \"A → B\" means A exported this much food and feed to B.",
+    source: "UN Comtrade, 2023",
+  },
+  gold: {
+    definition:
+      "Precious metals and stones (HS code 71 - mostly gold bullion, plus silver, platinum, diamonds). \"A → B\" means A shipped this much to B - gold moves between trading hubs as a reserve and haven asset.",
+    source: "UN Comtrade, 2023",
+  },
   fdi: {
     definition:
       "Foreign direct investment. \"A → B\" means companies from A built or bought controlling stakes in businesses in B - factories, subsidiaries, acquisitions.",

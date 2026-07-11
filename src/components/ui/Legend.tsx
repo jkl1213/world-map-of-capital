@@ -10,6 +10,9 @@ const order: AssetClass[] = [
   "currency",
   "fdi",
   "commodity",
+  "ores",
+  "agri",
+  "gold",
 ];
 
 export function Legend() {

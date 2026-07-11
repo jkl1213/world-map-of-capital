@@ -1,0 +1,1922 @@
+{
+  "ores": [
+    {
+      "source": "AU",
+      "target": "CN",
+      "usd": 89743577537,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "JP",
+      "usd": 7944748972.751,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "DE",
+      "usd": 368028212.001,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "GB",
+      "usd": 75552139.316,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "CA",
+      "usd": 236590293.75,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "BR",
+      "usd": 3524181,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SA",
+      "usd": 36277918.56,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "AE",
+      "usd": 1447056.79,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KR",
+      "usd": 7191469536,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SG",
+      "usd": 18529.855,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "NL",
+      "usd": 55670442.699,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "MX",
+      "usd": 73120118,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ID",
+      "usd": 968481798,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "VN",
+      "usd": 1077591160.658,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ZA",
+      "usd": 8125265.908,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KE",
+      "usd": 6372.588,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "CN",
+      "usd": 29892371671,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "JP",
+      "usd": 4008655032.524,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "DE",
+      "usd": 1768436441.148,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "GB",
+      "usd": 136472308.918,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "CA",
+      "usd": 180730480.388,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "SA",
+      "usd": 154144.263,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "AE",
+      "usd": 35923926.488,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "KR",
+      "usd": 1119738049,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "SG",
+      "usd": 8041043,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "NL",
+      "usd": 293868969.637,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "MX",
+      "usd": 270277256,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "ID",
+      "usd": 203199637,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "VN",
+      "usd": 648527357.33,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "NG",
+      "usd": 2028.029,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "ZA",
+      "usd": 227537.693,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "AU",
+      "usd": 237600.322,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "QA",
+      "usd": 84468350.714,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "KE",
+      "usd": 1756025.953,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "CN",
+      "usd": 11470979029,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "JP",
+      "usd": 712286621.73,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "DE",
+      "usd": 2355394772.207,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "GB",
+      "usd": 667704392.754,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "CA",
+      "usd": 66742673.508,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "BR",
+      "usd": 43056655,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "SA",
+      "usd": 34526447.937,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "AE",
+      "usd": 1450182.018,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "RU",
+      "usd": 8552845.669,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "KR",
+      "usd": 910259697,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "SG",
+      "usd": 93654.469,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "NL",
+      "usd": 148312522.749,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "MX",
+      "usd": 53620165,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "ID",
+      "usd": 231267628,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "VN",
+      "usd": 2906325.209,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "NG",
+      "usd": 526672.867,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "AU",
+      "usd": 13556544.829,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "QA",
+      "usd": 91769.542,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "KE",
+      "usd": 35387485.854,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "CN",
+      "usd": 3401639653,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "JP",
+      "usd": 1902041915.078,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "DE",
+      "usd": 1927187381.622,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "GB",
+      "usd": 167159325.565,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "BR",
+      "usd": 1151194,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AE",
+      "usd": 10238.064,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "KR",
+      "usd": 1153496108,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "NL",
+      "usd": 207115473.085,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "MX",
+      "usd": 74316109,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ID",
+      "usd": 6564,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "VN",
+      "usd": 3319763.3,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ZA",
+      "usd": 11649.06,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AU",
+      "usd": 19042486.01,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "QA",
+      "usd": 53478167.031,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "CN",
+      "usd": 2725602236,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "JP",
+      "usd": 1928183752.954,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "DE",
+      "usd": 558124672.029,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "GB",
+      "usd": 853113.491,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "CA",
+      "usd": 1574.181,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "BR",
+      "usd": 463780,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "SA",
+      "usd": 338399.992,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "AE",
+      "usd": 5124943.732,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "RU",
+      "usd": 2590570,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "KR",
+      "usd": 1307596065,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "SG",
+      "usd": 3300836.778,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "NL",
+      "usd": 17200388.7,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "MX",
+      "usd": 114975,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "VN",
+      "usd": 3310978.58,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "ZA",
+      "usd": 14817.961,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "AU",
+      "usd": 6769.761,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "CN",
+      "usd": 4380832625,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "JP",
+      "usd": 35306741.867,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "DE",
+      "usd": 168882521.42,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "GB",
+      "usd": 28027.234,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "SA",
+      "usd": 461.067,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "AE",
+      "usd": 7053818.455,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "KR",
+      "usd": 124211969,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "NL",
+      "usd": 2044868.182,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "VN",
+      "usd": 18497795.961,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "ZA",
+      "usd": 138.535,
+      "period": "2023"
+    }
+  ],
+  "agri": [
+    {
+      "source": "BR",
+      "target": "CN",
+      "usd": 45424484200,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "JP",
+      "usd": 2545513278.686,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "DE",
+      "usd": 129628290.583,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "GB",
+      "usd": 400780971.561,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "CA",
+      "usd": 5060995.8100000005,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "SA",
+      "usd": 826423215.072,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "AE",
+      "usd": 52400688.77499999,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "RU",
+      "usd": 737840749,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "KR",
+      "usd": 1487276026,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "SG",
+      "usd": 5814978.254,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "NL",
+      "usd": 809418267.185,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "MX",
+      "usd": 1619296295,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "ID",
+      "usd": 508214911,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "VN",
+      "usd": 1951725474.1260002,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "NG",
+      "usd": 32735564.073999997,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "ZA",
+      "usd": 78271706.23,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "AU",
+      "usd": 26864587.899,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "QA",
+      "usd": 8954389.616999999,
+      "period": "2023"
+    },
+    {
+      "source": "BR",
+      "target": "KE",
+      "usd": 3449538.142,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "CN",
+      "usd": 4234574677,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "JP",
+      "usd": 21109945.143000003,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "DE",
+      "usd": 57023053.412,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "GB",
+      "usd": 61153.04,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "CA",
+      "usd": 100626.80900000001,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "BR",
+      "usd": 271624787,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "SA",
+      "usd": 1108491758.422,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "AE",
+      "usd": 249698877.64499998,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "KR",
+      "usd": 105692326,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "SG",
+      "usd": 12522136.318,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "NL",
+      "usd": 15571941.932,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "MX",
+      "usd": 50640793,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "ID",
+      "usd": 285520903,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "VN",
+      "usd": 76888165.08600001,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "NG",
+      "usd": 237838873.208,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "ZA",
+      "usd": 95115904.174,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "AU",
+      "usd": 44450.562999999995,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "QA",
+      "usd": 3650185.934,
+      "period": "2023"
+    },
+    {
+      "source": "RU",
+      "target": "KE",
+      "usd": 463140738.244,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "CN",
+      "usd": 6581780131,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "JP",
+      "usd": 1906501985.8030002,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "DE",
+      "usd": 115330537.66499999,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "GB",
+      "usd": 412284770.64,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "BR",
+      "usd": 41412521,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "SA",
+      "usd": 14291345.775999999,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AE",
+      "usd": 229386672.636,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "RU",
+      "usd": 180226.27,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "KR",
+      "usd": 227064884,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "SG",
+      "usd": 53284038.272,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "NL",
+      "usd": 138233888.19,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "MX",
+      "usd": 1320729104,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ID",
+      "usd": 1131996297,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "VN",
+      "usd": 188362166.23,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "NG",
+      "usd": 430441828.276,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ZA",
+      "usd": 18016928.439000003,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AU",
+      "usd": 104738451.71599999,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "QA",
+      "usd": 1680817.729,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "KE",
+      "usd": 32087093.555,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "CN",
+      "usd": 4294450251,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "JP",
+      "usd": 1839599060.0310001,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "DE",
+      "usd": 850372754.2649999,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "GB",
+      "usd": 55034818.469,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "CA",
+      "usd": 10478263.136999998,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "BR",
+      "usd": 3560357,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SA",
+      "usd": 488236889.394,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "AE",
+      "usd": 728006347.8989999,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "RU",
+      "usd": 3274.003,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KR",
+      "usd": 1208928464,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SG",
+      "usd": 358994554.661,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "NL",
+      "usd": 221021492.56,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "MX",
+      "usd": 272579977,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ID",
+      "usd": 1518846523,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "VN",
+      "usd": 1188063210.4699998,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "NG",
+      "usd": 263.697,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ZA",
+      "usd": 104851424.489,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "QA",
+      "usd": 58663520.316,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KE",
+      "usd": 60552305.59,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "CN",
+      "usd": 6749396274,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "JP",
+      "usd": 142946134.79000002,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "DE",
+      "usd": 359210661.50299996,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "GB",
+      "usd": 158900828.808,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "CA",
+      "usd": 77905518.527,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "BR",
+      "usd": 386362346,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "SA",
+      "usd": 353880682.88699996,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "AE",
+      "usd": 239101487.983,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "RU",
+      "usd": 585895403.239,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "KR",
+      "usd": 390812589,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "SG",
+      "usd": 274738560.707,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "NL",
+      "usd": 516185889.04099995,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "MX",
+      "usd": 61391990,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "VN",
+      "usd": 698891397.444,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "NG",
+      "usd": 74348002.12200001,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "ZA",
+      "usd": 399009649.295,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "AU",
+      "usd": 7113632.463,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "QA",
+      "usd": 4803982.473,
+      "period": "2023"
+    },
+    {
+      "source": "ID",
+      "target": "KE",
+      "usd": 163601988.86999997,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "CN",
+      "usd": 601959077,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "JP",
+      "usd": 24155123.681,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "DE",
+      "usd": 19490755.847,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "GB",
+      "usd": 11510341.957,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "CA",
+      "usd": 24625973.104,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "BR",
+      "usd": 1331637,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "SA",
+      "usd": 33650748.758999996,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "AE",
+      "usd": 39363495.783,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "RU",
+      "usd": 3535382.342,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "KR",
+      "usd": 125352731,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "SG",
+      "usd": 153857941.416,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "NL",
+      "usd": 29097461.898000002,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "MX",
+      "usd": 9248685,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "ID",
+      "usd": 669245185,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "NG",
+      "usd": 125650.399,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "ZA",
+      "usd": 7938607.944999999,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "AU",
+      "usd": 35321620.823,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "QA",
+      "usd": 7014445.596,
+      "period": "2023"
+    },
+    {
+      "source": "VN",
+      "target": "KE",
+      "usd": 399522.905,
+      "period": "2023"
+    }
+  ],
+  "gold": [
+    {
+      "source": "AE",
+      "target": "CN",
+      "usd": 468130629,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "JP",
+      "usd": 104538460.029,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "DE",
+      "usd": 27162826.187,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "GB",
+      "usd": 323063635.543,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "CA",
+      "usd": 42757956.39,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "BR",
+      "usd": 1305,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "SA",
+      "usd": 2949366929.199,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "RU",
+      "usd": 73628336.547,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "KR",
+      "usd": 76332672,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "SG",
+      "usd": 1101079328.84,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "NL",
+      "usd": 10011620.774,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "MX",
+      "usd": 740063.201,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "ID",
+      "usd": 166108529,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "VN",
+      "usd": 1916767.697,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "NG",
+      "usd": 42936.792,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "ZA",
+      "usd": 1197629.624,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "AU",
+      "usd": 58083242.843,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "QA",
+      "usd": 54950520.343,
+      "period": "2023"
+    },
+    {
+      "source": "AE",
+      "target": "KE",
+      "usd": 42222.524,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "CN",
+      "usd": 15257447781,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "JP",
+      "usd": 4122876827.334,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "DE",
+      "usd": 1676079032.181,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "GB",
+      "usd": 5044455667.807,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "CA",
+      "usd": 1352503443.8,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "BR",
+      "usd": 126662981,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "SA",
+      "usd": 66594057.268,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "AE",
+      "usd": 3759462358.306,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "RU",
+      "usd": 16199.244,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "KR",
+      "usd": 564330715,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "SG",
+      "usd": 52363567.04,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "NL",
+      "usd": 797351.268,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "MX",
+      "usd": 92982,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "ID",
+      "usd": 1229,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "VN",
+      "usd": 5469348.79,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "NG",
+      "usd": 150953.532,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "AU",
+      "usd": 48373103.874,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "QA",
+      "usd": 36071687.46,
+      "period": "2023"
+    },
+    {
+      "source": "ZA",
+      "target": "KE",
+      "usd": 145223.731,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "CN",
+      "usd": 11084168638,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "JP",
+      "usd": 215552539.51,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "DE",
+      "usd": 80246135.683,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "GB",
+      "usd": 2221895367.998,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "CA",
+      "usd": 414638603.747,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "BR",
+      "usd": 116362,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SA",
+      "usd": 484620.788,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "AE",
+      "usd": 576955396.545,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KR",
+      "usd": 648115956,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "SG",
+      "usd": 1969429368.78,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "NL",
+      "usd": 1036952.826,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "MX",
+      "usd": 374051,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ID",
+      "usd": 836093592,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "VN",
+      "usd": 14849741.808,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "NG",
+      "usd": 6258.744,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "ZA",
+      "usd": 228927.919,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "QA",
+      "usd": 9565.563,
+      "period": "2023"
+    },
+    {
+      "source": "AU",
+      "target": "KE",
+      "usd": 6550.522,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "CN",
+      "usd": 290700011,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "JP",
+      "usd": 163779244.226,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "DE",
+      "usd": 620600182.862,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "CA",
+      "usd": 147207755.611,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "BR",
+      "usd": 12064957,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "SA",
+      "usd": 9040962.441,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "AE",
+      "usd": 879233637.035,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "RU",
+      "usd": 38543.816,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "KR",
+      "usd": 136513881,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "SG",
+      "usd": 27704079.648,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "NL",
+      "usd": 154985157.911,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "MX",
+      "usd": 5856485,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "ID",
+      "usd": 2928652,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "VN",
+      "usd": 351368.984,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "NG",
+      "usd": 313552.765,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "ZA",
+      "usd": 2411277.682,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "AU",
+      "usd": 51686342.129,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "QA",
+      "usd": 31482861.454,
+      "period": "2023"
+    },
+    {
+      "source": "GB",
+      "target": "KE",
+      "usd": 94773.028,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "CN",
+      "usd": 3200339232,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "JP",
+      "usd": 208992580.298,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "DE",
+      "usd": 50969394.04,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "GB",
+      "usd": 110317004.714,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "CA",
+      "usd": 15426666.143,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "BR",
+      "usd": 1619293,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "SA",
+      "usd": 11958170.634,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "AE",
+      "usd": 631423376.625,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "RU",
+      "usd": 197572.359,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "KR",
+      "usd": 11463901,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "NL",
+      "usd": 265667.7,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "MX",
+      "usd": 15070921,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "ID",
+      "usd": 239872675,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "VN",
+      "usd": 7711446.795,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "NG",
+      "usd": 1753.978,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "ZA",
+      "usd": 6727.174,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "AU",
+      "usd": 56387796.111,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "QA",
+      "usd": 261699224.84,
+      "period": "2023"
+    },
+    {
+      "source": "SG",
+      "target": "KE",
+      "usd": 444.786,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "CN",
+      "usd": 14048713234,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "JP",
+      "usd": 1779341.878,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "DE",
+      "usd": 100627028.737,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "GB",
+      "usd": 7002891675.775,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "BR",
+      "usd": 550784,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "SA",
+      "usd": 115084.264,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AE",
+      "usd": 743374200.701,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "KR",
+      "usd": 46934115,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "SG",
+      "usd": 36553973.472,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "NL",
+      "usd": 1773243.774,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "MX",
+      "usd": 22446679,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ID",
+      "usd": 20268,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "VN",
+      "usd": 6585309.919,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "NG",
+      "usd": 10009.121,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "ZA",
+      "usd": 5590909.585,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "AU",
+      "usd": 309912745.33,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "QA",
+      "usd": 33375.592,
+      "period": "2023"
+    },
+    {
+      "source": "CA",
+      "target": "KE",
+      "usd": 35928.255,
+      "period": "2023"
+    }
+  ]
+}
