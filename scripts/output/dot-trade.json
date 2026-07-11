@@ -1,0 +1,3602 @@
+[
+  {
+    "source": "US",
+    "target": "CN",
+    "period": "2024",
+    "usd": 143545739507
+  },
+  {
+    "source": "US",
+    "target": "JP",
+    "period": "2024",
+    "usd": 79740845546
+  },
+  {
+    "source": "US",
+    "target": "DE",
+    "period": "2024",
+    "usd": 75612902972
+  },
+  {
+    "source": "US",
+    "target": "GB",
+    "period": "2024",
+    "usd": 79941342753
+  },
+  {
+    "source": "US",
+    "target": "FR",
+    "period": "2024",
+    "usd": 44395681140
+  },
+  {
+    "source": "US",
+    "target": "CA",
+    "period": "2024",
+    "usd": 349397894619
+  },
+  {
+    "source": "US",
+    "target": "IN",
+    "period": "2024",
+    "usd": 41752667968
+  },
+  {
+    "source": "US",
+    "target": "BR",
+    "period": "2024",
+    "usd": 49666976323
+  },
+  {
+    "source": "US",
+    "target": "SA",
+    "period": "2024",
+    "usd": 13177010088
+  },
+  {
+    "source": "US",
+    "target": "AE",
+    "period": "2024",
+    "usd": 26969308978
+  },
+  {
+    "source": "US",
+    "target": "RU",
+    "period": "2024",
+    "usd": 526066141
+  },
+  {
+    "source": "US",
+    "target": "KR",
+    "period": "2024",
+    "usd": 65541790418.00001
+  },
+  {
+    "source": "US",
+    "target": "SG",
+    "period": "2024",
+    "usd": 46032645972
+  },
+  {
+    "source": "US",
+    "target": "CH",
+    "period": "2024",
+    "usd": 25028027808
+  },
+  {
+    "source": "US",
+    "target": "NL",
+    "period": "2024",
+    "usd": 89648784899
+  },
+  {
+    "source": "US",
+    "target": "MX",
+    "period": "2024",
+    "usd": 334041359045
+  },
+  {
+    "source": "US",
+    "target": "ID",
+    "period": "2024",
+    "usd": 10202095720
+  },
+  {
+    "source": "US",
+    "target": "VN",
+    "period": "2024",
+    "usd": 13098155121
+  },
+  {
+    "source": "US",
+    "target": "NG",
+    "period": "2024",
+    "usd": 4174298267
+  },
+  {
+    "source": "US",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 5818998932
+  },
+  {
+    "source": "US",
+    "target": "AU",
+    "period": "2024",
+    "usd": 34593429481
+  },
+  {
+    "source": "US",
+    "target": "QA",
+    "period": "2024",
+    "usd": 3804248139
+  },
+  {
+    "source": "US",
+    "target": "NO",
+    "period": "2024",
+    "usd": 4592444161
+  },
+  {
+    "source": "US",
+    "target": "KE",
+    "period": "2024",
+    "usd": 782524079
+  },
+  {
+    "source": "CN",
+    "target": "US",
+    "period": "2024",
+    "usd": 525225232834
+  },
+  {
+    "source": "CN",
+    "target": "JP",
+    "period": "2024",
+    "usd": 152051031874
+  },
+  {
+    "source": "CN",
+    "target": "DE",
+    "period": "2024",
+    "usd": 107078528450
+  },
+  {
+    "source": "CN",
+    "target": "GB",
+    "period": "2024",
+    "usd": 78854315321
+  },
+  {
+    "source": "CN",
+    "target": "FR",
+    "period": "2024",
+    "usd": 44868960674
+  },
+  {
+    "source": "CN",
+    "target": "CA",
+    "period": "2024",
+    "usd": 46436648078
+  },
+  {
+    "source": "CN",
+    "target": "IN",
+    "period": "2024",
+    "usd": 120591475722
+  },
+  {
+    "source": "CN",
+    "target": "BR",
+    "period": "2024",
+    "usd": 72051235919
+  },
+  {
+    "source": "CN",
+    "target": "SA",
+    "period": "2024",
+    "usd": 49952466743
+  },
+  {
+    "source": "CN",
+    "target": "AE",
+    "period": "2024",
+    "usd": 65629777770.99999
+  },
+  {
+    "source": "CN",
+    "target": "RU",
+    "period": "2024",
+    "usd": 115569751760
+  },
+  {
+    "source": "CN",
+    "target": "KR",
+    "period": "2024",
+    "usd": 147348693320
+  },
+  {
+    "source": "CN",
+    "target": "SG",
+    "period": "2024",
+    "usd": 79596586024
+  },
+  {
+    "source": "CN",
+    "target": "CH",
+    "period": "2024",
+    "usd": 7487227149
+  },
+  {
+    "source": "CN",
+    "target": "NL",
+    "period": "2024",
+    "usd": 91219323425
+  },
+  {
+    "source": "CN",
+    "target": "MX",
+    "period": "2024",
+    "usd": 90170698536
+  },
+  {
+    "source": "CN",
+    "target": "ID",
+    "period": "2024",
+    "usd": 76836523327
+  },
+  {
+    "source": "CN",
+    "target": "VN",
+    "period": "2024",
+    "usd": 162276338601
+  },
+  {
+    "source": "CN",
+    "target": "NG",
+    "period": "2024",
+    "usd": 18952106654
+  },
+  {
+    "source": "CN",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 21828755317
+  },
+  {
+    "source": "CN",
+    "target": "AU",
+    "period": "2024",
+    "usd": 70791804184
+  },
+  {
+    "source": "CN",
+    "target": "QA",
+    "period": "2024",
+    "usd": 4169451138.0000005
+  },
+  {
+    "source": "CN",
+    "target": "NO",
+    "period": "2024",
+    "usd": 4999491007
+  },
+  {
+    "source": "CN",
+    "target": "KE",
+    "period": "2024",
+    "usd": 8621290746
+  },
+  {
+    "source": "JP",
+    "target": "US",
+    "period": "2024",
+    "usd": 141494296579
+  },
+  {
+    "source": "JP",
+    "target": "CN",
+    "period": "2024",
+    "usd": 124577571305
+  },
+  {
+    "source": "JP",
+    "target": "DE",
+    "period": "2024",
+    "usd": 17386941485
+  },
+  {
+    "source": "JP",
+    "target": "GB",
+    "period": "2024",
+    "usd": 11231411355
+  },
+  {
+    "source": "JP",
+    "target": "FR",
+    "period": "2024",
+    "usd": 6690863716
+  },
+  {
+    "source": "JP",
+    "target": "CA",
+    "period": "2024",
+    "usd": 11166059149
+  },
+  {
+    "source": "JP",
+    "target": "IN",
+    "period": "2024",
+    "usd": 17233897735
+  },
+  {
+    "source": "JP",
+    "target": "BR",
+    "period": "2024",
+    "usd": 4633544996
+  },
+  {
+    "source": "JP",
+    "target": "SA",
+    "period": "2024",
+    "usd": 6067609127
+  },
+  {
+    "source": "JP",
+    "target": "AE",
+    "period": "2024",
+    "usd": 12724986551
+  },
+  {
+    "source": "JP",
+    "target": "RU",
+    "period": "2024",
+    "usd": 2163919975
+  },
+  {
+    "source": "JP",
+    "target": "KR",
+    "period": "2024",
+    "usd": 46472035064
+  },
+  {
+    "source": "JP",
+    "target": "SG",
+    "period": "2024",
+    "usd": 19801850247
+  },
+  {
+    "source": "JP",
+    "target": "CH",
+    "period": "2024",
+    "usd": 5966631009
+  },
+  {
+    "source": "JP",
+    "target": "NL",
+    "period": "2024",
+    "usd": 11517356793
+  },
+  {
+    "source": "JP",
+    "target": "MX",
+    "period": "2024",
+    "usd": 12275117809
+  },
+  {
+    "source": "JP",
+    "target": "ID",
+    "period": "2024",
+    "usd": 12988874836
+  },
+  {
+    "source": "JP",
+    "target": "VN",
+    "period": "2024",
+    "usd": 17083346979.000002
+  },
+  {
+    "source": "JP",
+    "target": "NG",
+    "period": "2024",
+    "usd": 322775728
+  },
+  {
+    "source": "JP",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 2099592520.0000002
+  },
+  {
+    "source": "JP",
+    "target": "AU",
+    "period": "2024",
+    "usd": 15982072272
+  },
+  {
+    "source": "JP",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1642958461
+  },
+  {
+    "source": "JP",
+    "target": "NO",
+    "period": "2024",
+    "usd": 941947268
+  },
+  {
+    "source": "JP",
+    "target": "KE",
+    "period": "2024",
+    "usd": 1010668259
+  },
+  {
+    "source": "DE",
+    "target": "US",
+    "period": "2024",
+    "usd": 174481796545
+  },
+  {
+    "source": "DE",
+    "target": "CN",
+    "period": "2024",
+    "usd": 97300839526
+  },
+  {
+    "source": "DE",
+    "target": "JP",
+    "period": "2024",
+    "usd": 23312683334
+  },
+  {
+    "source": "DE",
+    "target": "GB",
+    "period": "2024",
+    "usd": 86798162236
+  },
+  {
+    "source": "DE",
+    "target": "FR",
+    "period": "2024",
+    "usd": 125670387938
+  },
+  {
+    "source": "DE",
+    "target": "CA",
+    "period": "2024",
+    "usd": 13956356969
+  },
+  {
+    "source": "DE",
+    "target": "IN",
+    "period": "2024",
+    "usd": 18286241243
+  },
+  {
+    "source": "DE",
+    "target": "BR",
+    "period": "2024",
+    "usd": 14271971527
+  },
+  {
+    "source": "DE",
+    "target": "SA",
+    "period": "2024",
+    "usd": 9417217661
+  },
+  {
+    "source": "DE",
+    "target": "AE",
+    "period": "2024",
+    "usd": 10482546284
+  },
+  {
+    "source": "DE",
+    "target": "RU",
+    "period": "2024",
+    "usd": 8193498933.000001
+  },
+  {
+    "source": "DE",
+    "target": "KR",
+    "period": "2024",
+    "usd": 21176103166
+  },
+  {
+    "source": "DE",
+    "target": "SG",
+    "period": "2024",
+    "usd": 7637900294
+  },
+  {
+    "source": "DE",
+    "target": "CH",
+    "period": "2024",
+    "usd": 74208125794
+  },
+  {
+    "source": "DE",
+    "target": "NL",
+    "period": "2024",
+    "usd": 119163610813
+  },
+  {
+    "source": "DE",
+    "target": "MX",
+    "period": "2024",
+    "usd": 19016950031
+  },
+  {
+    "source": "DE",
+    "target": "ID",
+    "period": "2024",
+    "usd": 3099732312
+  },
+  {
+    "source": "DE",
+    "target": "VN",
+    "period": "2024",
+    "usd": 4019215591
+  },
+  {
+    "source": "DE",
+    "target": "NG",
+    "period": "2024",
+    "usd": 956900460
+  },
+  {
+    "source": "DE",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 9854232484
+  },
+  {
+    "source": "DE",
+    "target": "AU",
+    "period": "2024",
+    "usd": 12148905565
+  },
+  {
+    "source": "DE",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1391605665
+  },
+  {
+    "source": "DE",
+    "target": "NO",
+    "period": "2024",
+    "usd": 10613595985
+  },
+  {
+    "source": "DE",
+    "target": "KE",
+    "period": "2024",
+    "usd": 275899918
+  },
+  {
+    "source": "GB",
+    "target": "US",
+    "period": "2024",
+    "usd": 73687833159
+  },
+  {
+    "source": "GB",
+    "target": "CN",
+    "period": "2024",
+    "usd": 21358810389
+  },
+  {
+    "source": "GB",
+    "target": "JP",
+    "period": "2024",
+    "usd": 9307207329
+  },
+  {
+    "source": "GB",
+    "target": "DE",
+    "period": "2024",
+    "usd": 40940657271
+  },
+  {
+    "source": "GB",
+    "target": "FR",
+    "period": "2024",
+    "usd": 29777671954
+  },
+  {
+    "source": "GB",
+    "target": "CA",
+    "period": "2024",
+    "usd": 8880272741
+  },
+  {
+    "source": "GB",
+    "target": "IN",
+    "period": "2024",
+    "usd": 8963385415
+  },
+  {
+    "source": "GB",
+    "target": "BR",
+    "period": "2024",
+    "usd": 3506594608
+  },
+  {
+    "source": "GB",
+    "target": "SA",
+    "period": "2024",
+    "usd": 5526873837
+  },
+  {
+    "source": "GB",
+    "target": "AE",
+    "period": "2024",
+    "usd": 10847703630
+  },
+  {
+    "source": "GB",
+    "target": "RU",
+    "period": "2024",
+    "usd": 941458439
+  },
+  {
+    "source": "GB",
+    "target": "KR",
+    "period": "2024",
+    "usd": 5263193573
+  },
+  {
+    "source": "GB",
+    "target": "SG",
+    "period": "2024",
+    "usd": 8254951476
+  },
+  {
+    "source": "GB",
+    "target": "CH",
+    "period": "2024",
+    "usd": 9339737050
+  },
+  {
+    "source": "GB",
+    "target": "NL",
+    "period": "2024",
+    "usd": 35660460526
+  },
+  {
+    "source": "GB",
+    "target": "MX",
+    "period": "2024",
+    "usd": 2204389132
+  },
+  {
+    "source": "GB",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1050211970.0000001
+  },
+  {
+    "source": "GB",
+    "target": "VN",
+    "period": "2024",
+    "usd": 1116742174
+  },
+  {
+    "source": "GB",
+    "target": "NG",
+    "period": "2024",
+    "usd": 1978224035
+  },
+  {
+    "source": "GB",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 2208597499
+  },
+  {
+    "source": "GB",
+    "target": "AU",
+    "period": "2024",
+    "usd": 5884584583
+  },
+  {
+    "source": "GB",
+    "target": "QA",
+    "period": "2024",
+    "usd": 3283089670
+  },
+  {
+    "source": "GB",
+    "target": "NO",
+    "period": "2024",
+    "usd": 4534514238
+  },
+  {
+    "source": "GB",
+    "target": "KE",
+    "period": "2024",
+    "usd": 408734863
+  },
+  {
+    "source": "FR",
+    "target": "US",
+    "period": "2024",
+    "usd": 50937260197
+  },
+  {
+    "source": "FR",
+    "target": "CN",
+    "period": "2024",
+    "usd": 25752247940
+  },
+  {
+    "source": "FR",
+    "target": "JP",
+    "period": "2024",
+    "usd": 9891553914
+  },
+  {
+    "source": "FR",
+    "target": "DE",
+    "period": "2024",
+    "usd": 83434742051
+  },
+  {
+    "source": "FR",
+    "target": "GB",
+    "period": "2024",
+    "usd": 39474589903
+  },
+  {
+    "source": "FR",
+    "target": "CA",
+    "period": "2024",
+    "usd": 4263874501
+  },
+  {
+    "source": "FR",
+    "target": "IN",
+    "period": "2024",
+    "usd": 8163061866
+  },
+  {
+    "source": "FR",
+    "target": "BR",
+    "period": "2024",
+    "usd": 4441405622
+  },
+  {
+    "source": "FR",
+    "target": "SA",
+    "period": "2024",
+    "usd": 3747392339
+  },
+  {
+    "source": "FR",
+    "target": "AE",
+    "period": "2024",
+    "usd": 6760939941
+  },
+  {
+    "source": "FR",
+    "target": "RU",
+    "period": "2024",
+    "usd": 2209894158
+  },
+  {
+    "source": "FR",
+    "target": "KR",
+    "period": "2024",
+    "usd": 7284244140
+  },
+  {
+    "source": "FR",
+    "target": "SG",
+    "period": "2024",
+    "usd": 8009948130
+  },
+  {
+    "source": "FR",
+    "target": "CH",
+    "period": "2024",
+    "usd": 20916975711
+  },
+  {
+    "source": "FR",
+    "target": "NL",
+    "period": "2024",
+    "usd": 24819561481
+  },
+  {
+    "source": "FR",
+    "target": "MX",
+    "period": "2024",
+    "usd": 4103778469
+  },
+  {
+    "source": "FR",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1152550572
+  },
+  {
+    "source": "FR",
+    "target": "VN",
+    "period": "2024",
+    "usd": 1623669403
+  },
+  {
+    "source": "FR",
+    "target": "NG",
+    "period": "2024",
+    "usd": 569661079
+  },
+  {
+    "source": "FR",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 1811128348
+  },
+  {
+    "source": "FR",
+    "target": "AU",
+    "period": "2024",
+    "usd": 4277025262
+  },
+  {
+    "source": "FR",
+    "target": "QA",
+    "period": "2024",
+    "usd": 789159945
+  },
+  {
+    "source": "FR",
+    "target": "NO",
+    "period": "2024",
+    "usd": 2410915696
+  },
+  {
+    "source": "FR",
+    "target": "KE",
+    "period": "2024",
+    "usd": 172312262
+  },
+  {
+    "source": "CA",
+    "target": "US",
+    "period": "2024",
+    "usd": 435114263308
+  },
+  {
+    "source": "CA",
+    "target": "CN",
+    "period": "2024",
+    "usd": 21750442918
+  },
+  {
+    "source": "CA",
+    "target": "JP",
+    "period": "2024",
+    "usd": 10918390103
+  },
+  {
+    "source": "CA",
+    "target": "DE",
+    "period": "2024",
+    "usd": 4933087296
+  },
+  {
+    "source": "CA",
+    "target": "GB",
+    "period": "2024",
+    "usd": 20627678603
+  },
+  {
+    "source": "CA",
+    "target": "FR",
+    "period": "2024",
+    "usd": 3213025734
+  },
+  {
+    "source": "CA",
+    "target": "IN",
+    "period": "2024",
+    "usd": 3873305337
+  },
+  {
+    "source": "CA",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1819049751
+  },
+  {
+    "source": "CA",
+    "target": "SA",
+    "period": "2024",
+    "usd": 1477580272
+  },
+  {
+    "source": "CA",
+    "target": "AE",
+    "period": "2024",
+    "usd": 1876257783
+  },
+  {
+    "source": "CA",
+    "target": "RU",
+    "period": "2024",
+    "usd": 37331763
+  },
+  {
+    "source": "CA",
+    "target": "KR",
+    "period": "2024",
+    "usd": 5563577571
+  },
+  {
+    "source": "CA",
+    "target": "SG",
+    "period": "2024",
+    "usd": 1603525321
+  },
+  {
+    "source": "CA",
+    "target": "CH",
+    "period": "2024",
+    "usd": 4559745402
+  },
+  {
+    "source": "CA",
+    "target": "NL",
+    "period": "2024",
+    "usd": 5422577526
+  },
+  {
+    "source": "CA",
+    "target": "MX",
+    "period": "2024",
+    "usd": 6280261646
+  },
+  {
+    "source": "CA",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1686645402
+  },
+  {
+    "source": "CA",
+    "target": "VN",
+    "period": "2024",
+    "usd": 736349348
+  },
+  {
+    "source": "CA",
+    "target": "NG",
+    "period": "2024",
+    "usd": 389423814
+  },
+  {
+    "source": "CA",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 423387381
+  },
+  {
+    "source": "CA",
+    "target": "AU",
+    "period": "2024",
+    "usd": 2285991304
+  },
+  {
+    "source": "CA",
+    "target": "QA",
+    "period": "2024",
+    "usd": 115719990
+  },
+  {
+    "source": "CA",
+    "target": "NO",
+    "period": "2024",
+    "usd": 1677029303
+  },
+  {
+    "source": "CA",
+    "target": "KE",
+    "period": "2024",
+    "usd": 81693030
+  },
+  {
+    "source": "IN",
+    "target": "US",
+    "period": "2024",
+    "usd": 80914500000
+  },
+  {
+    "source": "IN",
+    "target": "CN",
+    "period": "2024",
+    "usd": 15140920000
+  },
+  {
+    "source": "IN",
+    "target": "JP",
+    "period": "2024",
+    "usd": 5829980000
+  },
+  {
+    "source": "IN",
+    "target": "DE",
+    "period": "2024",
+    "usd": 10416990000
+  },
+  {
+    "source": "IN",
+    "target": "GB",
+    "period": "2024",
+    "usd": 14298960000
+  },
+  {
+    "source": "IN",
+    "target": "FR",
+    "period": "2024",
+    "usd": 7978340000
+  },
+  {
+    "source": "IN",
+    "target": "CA",
+    "period": "2024",
+    "usd": 4142609999.9999995
+  },
+  {
+    "source": "IN",
+    "target": "BR",
+    "period": "2024",
+    "usd": 6549180000
+  },
+  {
+    "source": "IN",
+    "target": "SA",
+    "period": "2024",
+    "usd": 12285060000
+  },
+  {
+    "source": "IN",
+    "target": "AE",
+    "period": "2024",
+    "usd": 37794220000
+  },
+  {
+    "source": "IN",
+    "target": "RU",
+    "period": "2024",
+    "usd": 4921370000
+  },
+  {
+    "source": "IN",
+    "target": "KR",
+    "period": "2024",
+    "usd": 5966570000
+  },
+  {
+    "source": "IN",
+    "target": "SG",
+    "period": "2024",
+    "usd": 15895240000
+  },
+  {
+    "source": "IN",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1668310000
+  },
+  {
+    "source": "IN",
+    "target": "NL",
+    "period": "2024",
+    "usd": 24834160000
+  },
+  {
+    "source": "IN",
+    "target": "MX",
+    "period": "2024",
+    "usd": 5730220000
+  },
+  {
+    "source": "IN",
+    "target": "ID",
+    "period": "2024",
+    "usd": 5512590000
+  },
+  {
+    "source": "IN",
+    "target": "VN",
+    "period": "2024",
+    "usd": 5571140000
+  },
+  {
+    "source": "IN",
+    "target": "NG",
+    "period": "2024",
+    "usd": 2875110000
+  },
+  {
+    "source": "IN",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 8260370000.000001
+  },
+  {
+    "source": "IN",
+    "target": "AU",
+    "period": "2024",
+    "usd": 7863840000
+  },
+  {
+    "source": "IN",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1783370000
+  },
+  {
+    "source": "IN",
+    "target": "NO",
+    "period": "2024",
+    "usd": 431880000
+  },
+  {
+    "source": "IN",
+    "target": "KE",
+    "period": "2024",
+    "usd": 3116380000
+  },
+  {
+    "source": "BR",
+    "target": "US",
+    "period": "2024",
+    "usd": 40917769182
+  },
+  {
+    "source": "BR",
+    "target": "CN",
+    "period": "2024",
+    "usd": 94411140802
+  },
+  {
+    "source": "BR",
+    "target": "JP",
+    "period": "2024",
+    "usd": 5577998685
+  },
+  {
+    "source": "BR",
+    "target": "DE",
+    "period": "2024",
+    "usd": 5852295628
+  },
+  {
+    "source": "BR",
+    "target": "GB",
+    "period": "2024",
+    "usd": 3134472560
+  },
+  {
+    "source": "BR",
+    "target": "FR",
+    "period": "2024",
+    "usd": 3000411086
+  },
+  {
+    "source": "BR",
+    "target": "CA",
+    "period": "2024",
+    "usd": 6316853569
+  },
+  {
+    "source": "BR",
+    "target": "IN",
+    "period": "2024",
+    "usd": 5260909480
+  },
+  {
+    "source": "BR",
+    "target": "SA",
+    "period": "2024",
+    "usd": 3114593451
+  },
+  {
+    "source": "BR",
+    "target": "AE",
+    "period": "2024",
+    "usd": 4543655263
+  },
+  {
+    "source": "BR",
+    "target": "RU",
+    "period": "2024",
+    "usd": 1450252285
+  },
+  {
+    "source": "BR",
+    "target": "KR",
+    "period": "2024",
+    "usd": 5508091295
+  },
+  {
+    "source": "BR",
+    "target": "SG",
+    "period": "2024",
+    "usd": 7902426238
+  },
+  {
+    "source": "BR",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1334778557
+  },
+  {
+    "source": "BR",
+    "target": "NL",
+    "period": "2024",
+    "usd": 11768168950
+  },
+  {
+    "source": "BR",
+    "target": "MX",
+    "period": "2024",
+    "usd": 7801789195
+  },
+  {
+    "source": "BR",
+    "target": "ID",
+    "period": "2024",
+    "usd": 4465620596
+  },
+  {
+    "source": "BR",
+    "target": "VN",
+    "period": "2024",
+    "usd": 4047061310
+  },
+  {
+    "source": "BR",
+    "target": "NG",
+    "period": "2024",
+    "usd": 977496973
+  },
+  {
+    "source": "BR",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 1379366831
+  },
+  {
+    "source": "BR",
+    "target": "AU",
+    "period": "2024",
+    "usd": 613633480
+  },
+  {
+    "source": "BR",
+    "target": "QA",
+    "period": "2024",
+    "usd": 455650731
+  },
+  {
+    "source": "BR",
+    "target": "NO",
+    "period": "2024",
+    "usd": 1430311362
+  },
+  {
+    "source": "BR",
+    "target": "KE",
+    "period": "2024",
+    "usd": 93476480
+  },
+  {
+    "source": "SA",
+    "target": "US",
+    "period": "2024",
+    "usd": 12793395454
+  },
+  {
+    "source": "SA",
+    "target": "CN",
+    "period": "2024",
+    "usd": 46302068472
+  },
+  {
+    "source": "SA",
+    "target": "JP",
+    "period": "2024",
+    "usd": 28351842026
+  },
+  {
+    "source": "SA",
+    "target": "DE",
+    "period": "2024",
+    "usd": 515143497
+  },
+  {
+    "source": "SA",
+    "target": "GB",
+    "period": "2024",
+    "usd": 2107637134
+  },
+  {
+    "source": "SA",
+    "target": "FR",
+    "period": "2024",
+    "usd": 5871503918
+  },
+  {
+    "source": "SA",
+    "target": "CA",
+    "period": "2024",
+    "usd": 1589535328
+  },
+  {
+    "source": "SA",
+    "target": "IN",
+    "period": "2024",
+    "usd": 27218600976
+  },
+  {
+    "source": "SA",
+    "target": "BR",
+    "period": "2024",
+    "usd": 2919850833
+  },
+  {
+    "source": "SA",
+    "target": "AE",
+    "period": "2024",
+    "usd": 22981050112
+  },
+  {
+    "source": "SA",
+    "target": "RU",
+    "period": "2024",
+    "usd": 40422253
+  },
+  {
+    "source": "SA",
+    "target": "KR",
+    "period": "2024",
+    "usd": 28574500479
+  },
+  {
+    "source": "SA",
+    "target": "SG",
+    "period": "2024",
+    "usd": 7644019792
+  },
+  {
+    "source": "SA",
+    "target": "CH",
+    "period": "2024",
+    "usd": 855140643
+  },
+  {
+    "source": "SA",
+    "target": "NL",
+    "period": "2024",
+    "usd": 4331121004
+  },
+  {
+    "source": "SA",
+    "target": "MX",
+    "period": "2024",
+    "usd": 39495052
+  },
+  {
+    "source": "SA",
+    "target": "ID",
+    "period": "2024",
+    "usd": 3435217736
+  },
+  {
+    "source": "SA",
+    "target": "VN",
+    "period": "2024",
+    "usd": 686114811
+  },
+  {
+    "source": "SA",
+    "target": "NG",
+    "period": "2024",
+    "usd": 763503110
+  },
+  {
+    "source": "SA",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 2359263982
+  },
+  {
+    "source": "SA",
+    "target": "AU",
+    "period": "2024",
+    "usd": 883065167
+  },
+  {
+    "source": "SA",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1038459202
+  },
+  {
+    "source": "SA",
+    "target": "NO",
+    "period": "2024",
+    "usd": 10328187
+  },
+  {
+    "source": "SA",
+    "target": "KE",
+    "period": "2024",
+    "usd": 594823072
+  },
+  {
+    "source": "AE",
+    "target": "US",
+    "period": "2024",
+    "usd": 7051351532
+  },
+  {
+    "source": "AE",
+    "target": "CN",
+    "period": "2024",
+    "usd": 34144733602
+  },
+  {
+    "source": "AE",
+    "target": "JP",
+    "period": "2024",
+    "usd": 34788574554
+  },
+  {
+    "source": "AE",
+    "target": "DE",
+    "period": "2024",
+    "usd": 1676181071
+  },
+  {
+    "source": "AE",
+    "target": "GB",
+    "period": "2024",
+    "usd": 4884271576
+  },
+  {
+    "source": "AE",
+    "target": "FR",
+    "period": "2024",
+    "usd": 2254348242
+  },
+  {
+    "source": "AE",
+    "target": "CA",
+    "period": "2024",
+    "usd": 577869035
+  },
+  {
+    "source": "AE",
+    "target": "IN",
+    "period": "2024",
+    "usd": 57561528301
+  },
+  {
+    "source": "AE",
+    "target": "BR",
+    "period": "2024",
+    "usd": 884637790
+  },
+  {
+    "source": "AE",
+    "target": "SA",
+    "period": "2024",
+    "usd": 11943819836
+  },
+  {
+    "source": "AE",
+    "target": "RU",
+    "period": "2024",
+    "usd": 53982984
+  },
+  {
+    "source": "AE",
+    "target": "KR",
+    "period": "2024",
+    "usd": 16915089622
+  },
+  {
+    "source": "AE",
+    "target": "SG",
+    "period": "2024",
+    "usd": 12144835474
+  },
+  {
+    "source": "AE",
+    "target": "CH",
+    "period": "2024",
+    "usd": 12339820553
+  },
+  {
+    "source": "AE",
+    "target": "NL",
+    "period": "2024",
+    "usd": 1915242728
+  },
+  {
+    "source": "AE",
+    "target": "MX",
+    "period": "2024",
+    "usd": 711180000
+  },
+  {
+    "source": "AE",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1264158298
+  },
+  {
+    "source": "AE",
+    "target": "VN",
+    "period": "2024",
+    "usd": 799605946
+  },
+  {
+    "source": "AE",
+    "target": "NG",
+    "period": "2024",
+    "usd": 5127543259
+  },
+  {
+    "source": "AE",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 2965510560
+  },
+  {
+    "source": "AE",
+    "target": "AU",
+    "period": "2024",
+    "usd": 1474963496
+  },
+  {
+    "source": "AE",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1565221232
+  },
+  {
+    "source": "AE",
+    "target": "NO",
+    "period": "2024",
+    "usd": 464138104
+  },
+  {
+    "source": "AE",
+    "target": "KE",
+    "period": "2024",
+    "usd": 1998662663
+  },
+  {
+    "source": "RU",
+    "target": "US",
+    "period": "2024",
+    "usd": 1808830121.2256598
+  },
+  {
+    "source": "RU",
+    "target": "CN",
+    "period": "2024",
+    "usd": 112058697022.071
+  },
+  {
+    "source": "RU",
+    "target": "JP",
+    "period": "2024",
+    "usd": 4393558622.98915
+  },
+  {
+    "source": "RU",
+    "target": "DE",
+    "period": "2024",
+    "usd": 1187250187.4414399
+  },
+  {
+    "source": "RU",
+    "target": "GB",
+    "period": "2024",
+    "usd": 133606809.186524
+  },
+  {
+    "source": "RU",
+    "target": "FR",
+    "period": "2024",
+    "usd": 3653517319.37676
+  },
+  {
+    "source": "RU",
+    "target": "CA",
+    "period": "2024",
+    "usd": 25489943.850831002
+  },
+  {
+    "source": "RU",
+    "target": "IN",
+    "period": "2024",
+    "usd": 68739806274.714
+  },
+  {
+    "source": "RU",
+    "target": "BR",
+    "period": "2024",
+    "usd": 10130327852.5278
+  },
+  {
+    "source": "RU",
+    "target": "SA",
+    "period": "2024",
+    "usd": 5111385620.70464
+  },
+  {
+    "source": "RU",
+    "target": "AE",
+    "period": "2024",
+    "usd": 8981481035.08308
+  },
+  {
+    "source": "RU",
+    "target": "KR",
+    "period": "2024",
+    "usd": 6691573903.1095295
+  },
+  {
+    "source": "RU",
+    "target": "SG",
+    "period": "2024",
+    "usd": 2237329786.2537403
+  },
+  {
+    "source": "RU",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1531269499.27974
+  },
+  {
+    "source": "RU",
+    "target": "NL",
+    "period": "2024",
+    "usd": 4249459538.4863896
+  },
+  {
+    "source": "RU",
+    "target": "MX",
+    "period": "2024",
+    "usd": 2524149018.93961
+  },
+  {
+    "source": "RU",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1257507935.64072
+  },
+  {
+    "source": "RU",
+    "target": "VN",
+    "period": "2024",
+    "usd": 2247311063.0998898
+  },
+  {
+    "source": "RU",
+    "target": "NG",
+    "period": "2024",
+    "usd": 731369841.101506
+  },
+  {
+    "source": "RU",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 311475980.86268103
+  },
+  {
+    "source": "RU",
+    "target": "AU",
+    "period": "2024",
+    "usd": 1361693.9693604999
+  },
+  {
+    "source": "RU",
+    "target": "QA",
+    "period": "2024",
+    "usd": 24134796.0048309
+  },
+  {
+    "source": "RU",
+    "target": "NO",
+    "period": "2024",
+    "usd": 160733341.57161802
+  },
+  {
+    "source": "RU",
+    "target": "KE",
+    "period": "2024",
+    "usd": 402321032.584197
+  },
+  {
+    "source": "KR",
+    "target": "US",
+    "period": "2024",
+    "usd": 128411608000
+  },
+  {
+    "source": "KR",
+    "target": "CN",
+    "period": "2024",
+    "usd": 133013432999.99998
+  },
+  {
+    "source": "KR",
+    "target": "JP",
+    "period": "2024",
+    "usd": 29607465000
+  },
+  {
+    "source": "KR",
+    "target": "DE",
+    "period": "2024",
+    "usd": 9037565000
+  },
+  {
+    "source": "KR",
+    "target": "GB",
+    "period": "2024",
+    "usd": 6642046000
+  },
+  {
+    "source": "KR",
+    "target": "FR",
+    "period": "2024",
+    "usd": 5605502000
+  },
+  {
+    "source": "KR",
+    "target": "CA",
+    "period": "2024",
+    "usd": 10351621000
+  },
+  {
+    "source": "KR",
+    "target": "IN",
+    "period": "2024",
+    "usd": 18696108000
+  },
+  {
+    "source": "KR",
+    "target": "BR",
+    "period": "2024",
+    "usd": 5250613000
+  },
+  {
+    "source": "KR",
+    "target": "SA",
+    "period": "2024",
+    "usd": 5234984000
+  },
+  {
+    "source": "KR",
+    "target": "AE",
+    "period": "2024",
+    "usd": 5067555000
+  },
+  {
+    "source": "KR",
+    "target": "RU",
+    "period": "2024",
+    "usd": 4561831000
+  },
+  {
+    "source": "KR",
+    "target": "SG",
+    "period": "2024",
+    "usd": 18224336000
+  },
+  {
+    "source": "KR",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1170659000
+  },
+  {
+    "source": "KR",
+    "target": "NL",
+    "period": "2024",
+    "usd": 6798523000
+  },
+  {
+    "source": "KR",
+    "target": "MX",
+    "period": "2024",
+    "usd": 13605333000
+  },
+  {
+    "source": "KR",
+    "target": "ID",
+    "period": "2024",
+    "usd": 7948211000
+  },
+  {
+    "source": "KR",
+    "target": "VN",
+    "period": "2024",
+    "usd": 58323346000
+  },
+  {
+    "source": "KR",
+    "target": "NG",
+    "period": "2024",
+    "usd": 648930000
+  },
+  {
+    "source": "KR",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 707171000
+  },
+  {
+    "source": "KR",
+    "target": "AU",
+    "period": "2024",
+    "usd": 15597995000
+  },
+  {
+    "source": "KR",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1491921000
+  },
+  {
+    "source": "KR",
+    "target": "NO",
+    "period": "2024",
+    "usd": 451058000
+  },
+  {
+    "source": "KR",
+    "target": "KE",
+    "period": "2024",
+    "usd": 173142000
+  },
+  {
+    "source": "SG",
+    "target": "US",
+    "period": "2024",
+    "usd": 44081037429
+  },
+  {
+    "source": "SG",
+    "target": "CN",
+    "period": "2024",
+    "usd": 70707593096
+  },
+  {
+    "source": "SG",
+    "target": "JP",
+    "period": "2024",
+    "usd": 17767481610
+  },
+  {
+    "source": "SG",
+    "target": "DE",
+    "period": "2024",
+    "usd": 7070134236
+  },
+  {
+    "source": "SG",
+    "target": "GB",
+    "period": "2024",
+    "usd": 5391408720
+  },
+  {
+    "source": "SG",
+    "target": "FR",
+    "period": "2024",
+    "usd": 3801458466
+  },
+  {
+    "source": "SG",
+    "target": "CA",
+    "period": "2024",
+    "usd": 1145306349
+  },
+  {
+    "source": "SG",
+    "target": "IN",
+    "period": "2024",
+    "usd": 15207278332
+  },
+  {
+    "source": "SG",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1907521365
+  },
+  {
+    "source": "SG",
+    "target": "SA",
+    "period": "2024",
+    "usd": 1318471457
+  },
+  {
+    "source": "SG",
+    "target": "AE",
+    "period": "2024",
+    "usd": 5125434937
+  },
+  {
+    "source": "SG",
+    "target": "RU",
+    "period": "2024",
+    "usd": 122706426
+  },
+  {
+    "source": "SG",
+    "target": "KR",
+    "period": "2024",
+    "usd": 21306880004
+  },
+  {
+    "source": "SG",
+    "target": "CH",
+    "period": "2024",
+    "usd": 2232182423
+  },
+  {
+    "source": "SG",
+    "target": "NL",
+    "period": "2024",
+    "usd": 7455854596
+  },
+  {
+    "source": "SG",
+    "target": "MX",
+    "period": "2024",
+    "usd": 4434172805
+  },
+  {
+    "source": "SG",
+    "target": "ID",
+    "period": "2024",
+    "usd": 39888183536
+  },
+  {
+    "source": "SG",
+    "target": "VN",
+    "period": "2024",
+    "usd": 17287937770
+  },
+  {
+    "source": "SG",
+    "target": "NG",
+    "period": "2024",
+    "usd": 144164994
+  },
+  {
+    "source": "SG",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 447583366
+  },
+  {
+    "source": "SG",
+    "target": "AU",
+    "period": "2024",
+    "usd": 14906309945
+  },
+  {
+    "source": "SG",
+    "target": "QA",
+    "period": "2024",
+    "usd": 882369720
+  },
+  {
+    "source": "SG",
+    "target": "NO",
+    "period": "2024",
+    "usd": 572695105
+  },
+  {
+    "source": "SG",
+    "target": "KE",
+    "period": "2024",
+    "usd": 114178959
+  },
+  {
+    "source": "CH",
+    "target": "US",
+    "period": "2024",
+    "usd": 73494665764
+  },
+  {
+    "source": "CH",
+    "target": "CN",
+    "period": "2024",
+    "usd": 42341251777
+  },
+  {
+    "source": "CH",
+    "target": "JP",
+    "period": "2024",
+    "usd": 9268556794
+  },
+  {
+    "source": "CH",
+    "target": "DE",
+    "period": "2024",
+    "usd": 51244115585
+  },
+  {
+    "source": "CH",
+    "target": "GB",
+    "period": "2024",
+    "usd": 22594023436
+  },
+  {
+    "source": "CH",
+    "target": "FR",
+    "period": "2024",
+    "usd": 21060901209
+  },
+  {
+    "source": "CH",
+    "target": "CA",
+    "period": "2024",
+    "usd": 4648479116
+  },
+  {
+    "source": "CH",
+    "target": "IN",
+    "period": "2024",
+    "usd": 22604008630
+  },
+  {
+    "source": "CH",
+    "target": "BR",
+    "period": "2024",
+    "usd": 3556715841
+  },
+  {
+    "source": "CH",
+    "target": "SA",
+    "period": "2024",
+    "usd": 7312055483
+  },
+  {
+    "source": "CH",
+    "target": "AE",
+    "period": "2024",
+    "usd": 11355088116
+  },
+  {
+    "source": "CH",
+    "target": "RU",
+    "period": "2024",
+    "usd": 2535848110
+  },
+  {
+    "source": "CH",
+    "target": "KR",
+    "period": "2024",
+    "usd": 4066837514
+  },
+  {
+    "source": "CH",
+    "target": "SG",
+    "period": "2024",
+    "usd": 6471861378
+  },
+  {
+    "source": "CH",
+    "target": "NL",
+    "period": "2024",
+    "usd": 7226485942
+  },
+  {
+    "source": "CH",
+    "target": "MX",
+    "period": "2024",
+    "usd": 2526410138
+  },
+  {
+    "source": "CH",
+    "target": "ID",
+    "period": "2024",
+    "usd": 454395672
+  },
+  {
+    "source": "CH",
+    "target": "VN",
+    "period": "2024",
+    "usd": 610334441
+  },
+  {
+    "source": "CH",
+    "target": "NG",
+    "period": "2024",
+    "usd": 138029444
+  },
+  {
+    "source": "CH",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 723110890
+  },
+  {
+    "source": "CH",
+    "target": "AU",
+    "period": "2024",
+    "usd": 2818281650
+  },
+  {
+    "source": "CH",
+    "target": "QA",
+    "period": "2024",
+    "usd": 998921303
+  },
+  {
+    "source": "CH",
+    "target": "NO",
+    "period": "2024",
+    "usd": 818325127
+  },
+  {
+    "source": "CH",
+    "target": "KE",
+    "period": "2024",
+    "usd": 82155640
+  },
+  {
+    "source": "NL",
+    "target": "US",
+    "period": "2024",
+    "usd": 46881109724
+  },
+  {
+    "source": "NL",
+    "target": "CN",
+    "period": "2024",
+    "usd": 25625681261
+  },
+  {
+    "source": "NL",
+    "target": "JP",
+    "period": "2024",
+    "usd": 6169799076
+  },
+  {
+    "source": "NL",
+    "target": "DE",
+    "period": "2024",
+    "usd": 216436356993
+  },
+  {
+    "source": "NL",
+    "target": "GB",
+    "period": "2024",
+    "usd": 52185481651
+  },
+  {
+    "source": "NL",
+    "target": "FR",
+    "period": "2024",
+    "usd": 77884592106
+  },
+  {
+    "source": "NL",
+    "target": "CA",
+    "period": "2024",
+    "usd": 4635386328
+  },
+  {
+    "source": "NL",
+    "target": "IN",
+    "period": "2024",
+    "usd": 3487661249
+  },
+  {
+    "source": "NL",
+    "target": "BR",
+    "period": "2024",
+    "usd": 4886036694
+  },
+  {
+    "source": "NL",
+    "target": "SA",
+    "period": "2024",
+    "usd": 5641334405
+  },
+  {
+    "source": "NL",
+    "target": "AE",
+    "period": "2024",
+    "usd": 5849549743
+  },
+  {
+    "source": "NL",
+    "target": "RU",
+    "period": "2024",
+    "usd": 3034491921
+  },
+  {
+    "source": "NL",
+    "target": "KR",
+    "period": "2024",
+    "usd": 10553077127
+  },
+  {
+    "source": "NL",
+    "target": "SG",
+    "period": "2024",
+    "usd": 4142265482
+  },
+  {
+    "source": "NL",
+    "target": "CH",
+    "period": "2024",
+    "usd": 12933039677
+  },
+  {
+    "source": "NL",
+    "target": "MX",
+    "period": "2024",
+    "usd": 3532601470
+  },
+  {
+    "source": "NL",
+    "target": "ID",
+    "period": "2024",
+    "usd": 1145451892
+  },
+  {
+    "source": "NL",
+    "target": "VN",
+    "period": "2024",
+    "usd": 1680059512
+  },
+  {
+    "source": "NL",
+    "target": "NG",
+    "period": "2024",
+    "usd": 2098505780.9999998
+  },
+  {
+    "source": "NL",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 3465219220
+  },
+  {
+    "source": "NL",
+    "target": "AU",
+    "period": "2024",
+    "usd": 4242005847.0000005
+  },
+  {
+    "source": "NL",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1035641137.0000001
+  },
+  {
+    "source": "NL",
+    "target": "NO",
+    "period": "2024",
+    "usd": 7811248774
+  },
+  {
+    "source": "NL",
+    "target": "KE",
+    "period": "2024",
+    "usd": 585251674
+  },
+  {
+    "source": "MX",
+    "target": "US",
+    "period": "2024",
+    "usd": 512710518000
+  },
+  {
+    "source": "MX",
+    "target": "CN",
+    "period": "2024",
+    "usd": 9936951000
+  },
+  {
+    "source": "MX",
+    "target": "JP",
+    "period": "2024",
+    "usd": 4387182000
+  },
+  {
+    "source": "MX",
+    "target": "DE",
+    "period": "2024",
+    "usd": 7691721000
+  },
+  {
+    "source": "MX",
+    "target": "GB",
+    "period": "2024",
+    "usd": 3160385000
+  },
+  {
+    "source": "MX",
+    "target": "FR",
+    "period": "2024",
+    "usd": 1240660000
+  },
+  {
+    "source": "MX",
+    "target": "CA",
+    "period": "2024",
+    "usd": 18905821000
+  },
+  {
+    "source": "MX",
+    "target": "IN",
+    "period": "2024",
+    "usd": 2723994000
+  },
+  {
+    "source": "MX",
+    "target": "BR",
+    "period": "2024",
+    "usd": 4982428000
+  },
+  {
+    "source": "MX",
+    "target": "SA",
+    "period": "2024",
+    "usd": 620738000
+  },
+  {
+    "source": "MX",
+    "target": "AE",
+    "period": "2024",
+    "usd": 668259000
+  },
+  {
+    "source": "MX",
+    "target": "RU",
+    "period": "2024",
+    "usd": 31639000
+  },
+  {
+    "source": "MX",
+    "target": "KR",
+    "period": "2024",
+    "usd": 6164576000
+  },
+  {
+    "source": "MX",
+    "target": "SG",
+    "period": "2024",
+    "usd": 1444761000
+  },
+  {
+    "source": "MX",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1727475000
+  },
+  {
+    "source": "MX",
+    "target": "NL",
+    "period": "2024",
+    "usd": 2360654000
+  },
+  {
+    "source": "MX",
+    "target": "ID",
+    "period": "2024",
+    "usd": 112705000
+  },
+  {
+    "source": "MX",
+    "target": "VN",
+    "period": "2024",
+    "usd": 389562000
+  },
+  {
+    "source": "MX",
+    "target": "NG",
+    "period": "2024",
+    "usd": 47019000
+  },
+  {
+    "source": "MX",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 242423000
+  },
+  {
+    "source": "MX",
+    "target": "AU",
+    "period": "2024",
+    "usd": 1012016000
+  },
+  {
+    "source": "MX",
+    "target": "QA",
+    "period": "2024",
+    "usd": 70266000
+  },
+  {
+    "source": "MX",
+    "target": "NO",
+    "period": "2024",
+    "usd": 103046000
+  },
+  {
+    "source": "MX",
+    "target": "KE",
+    "period": "2024",
+    "usd": 6555000
+  },
+  {
+    "source": "ID",
+    "target": "US",
+    "period": "2024",
+    "usd": 25956582101
+  },
+  {
+    "source": "ID",
+    "target": "CN",
+    "period": "2024",
+    "usd": 58623441700
+  },
+  {
+    "source": "ID",
+    "target": "JP",
+    "period": "2024",
+    "usd": 22966977641
+  },
+  {
+    "source": "ID",
+    "target": "DE",
+    "period": "2024",
+    "usd": 2696276492
+  },
+  {
+    "source": "ID",
+    "target": "GB",
+    "period": "2024",
+    "usd": 1777236791
+  },
+  {
+    "source": "ID",
+    "target": "FR",
+    "period": "2024",
+    "usd": 1047582715.9999999
+  },
+  {
+    "source": "ID",
+    "target": "CA",
+    "period": "2024",
+    "usd": 1476216363
+  },
+  {
+    "source": "ID",
+    "target": "IN",
+    "period": "2024",
+    "usd": 22851210020
+  },
+  {
+    "source": "ID",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1715177889
+  },
+  {
+    "source": "ID",
+    "target": "SA",
+    "period": "2024",
+    "usd": 2222932937
+  },
+  {
+    "source": "ID",
+    "target": "AE",
+    "period": "2024",
+    "usd": 2887805990
+  },
+  {
+    "source": "ID",
+    "target": "RU",
+    "period": "2024",
+    "usd": 1102104966
+  },
+  {
+    "source": "ID",
+    "target": "KR",
+    "period": "2024",
+    "usd": 10289299776
+  },
+  {
+    "source": "ID",
+    "target": "SG",
+    "period": "2024",
+    "usd": 11662344801
+  },
+  {
+    "source": "ID",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1652493809
+  },
+  {
+    "source": "ID",
+    "target": "NL",
+    "period": "2024",
+    "usd": 5074330921
+  },
+  {
+    "source": "ID",
+    "target": "MX",
+    "period": "2024",
+    "usd": 2328991011
+  },
+  {
+    "source": "ID",
+    "target": "VN",
+    "period": "2024",
+    "usd": 10147952185
+  },
+  {
+    "source": "ID",
+    "target": "NG",
+    "period": "2024",
+    "usd": 553544708
+  },
+  {
+    "source": "ID",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 609163541
+  },
+  {
+    "source": "ID",
+    "target": "AU",
+    "period": "2024",
+    "usd": 4839894686
+  },
+  {
+    "source": "ID",
+    "target": "QA",
+    "period": "2024",
+    "usd": 1605060909
+  },
+  {
+    "source": "ID",
+    "target": "NO",
+    "period": "2024",
+    "usd": 45966023
+  },
+  {
+    "source": "ID",
+    "target": "KE",
+    "period": "2024",
+    "usd": 299388074
+  },
+  {
+    "source": "VN",
+    "target": "US",
+    "period": "2024",
+    "usd": 119374187665
+  },
+  {
+    "source": "VN",
+    "target": "CN",
+    "period": "2024",
+    "usd": 61025933626
+  },
+  {
+    "source": "VN",
+    "target": "JP",
+    "period": "2024",
+    "usd": 24490660264
+  },
+  {
+    "source": "VN",
+    "target": "DE",
+    "period": "2024",
+    "usd": 7916538331
+  },
+  {
+    "source": "VN",
+    "target": "GB",
+    "period": "2024",
+    "usd": 7534497757
+  },
+  {
+    "source": "VN",
+    "target": "FR",
+    "period": "2024",
+    "usd": 3397739163
+  },
+  {
+    "source": "VN",
+    "target": "CA",
+    "period": "2024",
+    "usd": 6350555919
+  },
+  {
+    "source": "VN",
+    "target": "IN",
+    "period": "2024",
+    "usd": 9054081040
+  },
+  {
+    "source": "VN",
+    "target": "BR",
+    "period": "2024",
+    "usd": 2597933250
+  },
+  {
+    "source": "VN",
+    "target": "SA",
+    "period": "2024",
+    "usd": 1609832463
+  },
+  {
+    "source": "VN",
+    "target": "AE",
+    "period": "2024",
+    "usd": 5614123891
+  },
+  {
+    "source": "VN",
+    "target": "RU",
+    "period": "2024",
+    "usd": 2331033446
+  },
+  {
+    "source": "VN",
+    "target": "KR",
+    "period": "2024",
+    "usd": 25592064337
+  },
+  {
+    "source": "VN",
+    "target": "SG",
+    "period": "2024",
+    "usd": 5091089753
+  },
+  {
+    "source": "VN",
+    "target": "CH",
+    "period": "2024",
+    "usd": 193067154
+  },
+  {
+    "source": "VN",
+    "target": "NL",
+    "period": "2024",
+    "usd": 12956554359
+  },
+  {
+    "source": "VN",
+    "target": "MX",
+    "period": "2024",
+    "usd": 5459495370
+  },
+  {
+    "source": "VN",
+    "target": "ID",
+    "period": "2024",
+    "usd": 6182847087
+  },
+  {
+    "source": "VN",
+    "target": "NG",
+    "period": "2024",
+    "usd": 127736654
+  },
+  {
+    "source": "VN",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 770800913
+  },
+  {
+    "source": "VN",
+    "target": "AU",
+    "period": "2024",
+    "usd": 6440047053
+  },
+  {
+    "source": "VN",
+    "target": "QA",
+    "period": "2017",
+    "usd": 52839171
+  },
+  {
+    "source": "VN",
+    "target": "NO",
+    "period": "2024",
+    "usd": 136298487
+  },
+  {
+    "source": "VN",
+    "target": "KE",
+    "period": "2024",
+    "usd": 58350066
+  },
+  {
+    "source": "NG",
+    "target": "US",
+    "period": "2024",
+    "usd": 9507981404
+  },
+  {
+    "source": "NG",
+    "target": "CN",
+    "period": "2024",
+    "usd": 4239197926
+  },
+  {
+    "source": "NG",
+    "target": "JP",
+    "period": "2024",
+    "usd": 1732736033
+  },
+  {
+    "source": "NG",
+    "target": "DE",
+    "period": "2024",
+    "usd": 3952883683
+  },
+  {
+    "source": "NG",
+    "target": "GB",
+    "period": "2024",
+    "usd": 1099708206
+  },
+  {
+    "source": "NG",
+    "target": "FR",
+    "period": "2024",
+    "usd": 5347061862
+  },
+  {
+    "source": "NG",
+    "target": "CA",
+    "period": "2024",
+    "usd": 9718181281
+  },
+  {
+    "source": "NG",
+    "target": "IN",
+    "period": "2024",
+    "usd": 10343159218
+  },
+  {
+    "source": "NG",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1527858810
+  },
+  {
+    "source": "NG",
+    "target": "SA",
+    "period": "2024",
+    "usd": 17129144
+  },
+  {
+    "source": "NG",
+    "target": "AE",
+    "period": "2024",
+    "usd": 347503285
+  },
+  {
+    "source": "NG",
+    "target": "RU",
+    "period": "2024",
+    "usd": 1894415
+  },
+  {
+    "source": "NG",
+    "target": "KR",
+    "period": "2024",
+    "usd": 465542270
+  },
+  {
+    "source": "NG",
+    "target": "SG",
+    "period": "2024",
+    "usd": 1776666
+  },
+  {
+    "source": "NG",
+    "target": "CH",
+    "period": "2024",
+    "usd": 394023665
+  },
+  {
+    "source": "NG",
+    "target": "NL",
+    "period": "2024",
+    "usd": 4522354573
+  },
+  {
+    "source": "NG",
+    "target": "MX",
+    "period": "2024",
+    "usd": 57645863
+  },
+  {
+    "source": "NG",
+    "target": "ID",
+    "period": "2024",
+    "usd": 8532385011
+  },
+  {
+    "source": "NG",
+    "target": "VN",
+    "period": "2024",
+    "usd": 738584123
+  },
+  {
+    "source": "NG",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 4766559415
+  },
+  {
+    "source": "NG",
+    "target": "AU",
+    "period": "2024",
+    "usd": 1067926
+  },
+  {
+    "source": "NG",
+    "target": "QA",
+    "period": "2024",
+    "usd": 2097473
+  },
+  {
+    "source": "NG",
+    "target": "NO",
+    "period": "2024",
+    "usd": 1157597
+  },
+  {
+    "source": "NG",
+    "target": "KE",
+    "period": "2024",
+    "usd": 234195
+  },
+  {
+    "source": "ZA",
+    "target": "US",
+    "period": "2024",
+    "usd": 8558532303
+  },
+  {
+    "source": "ZA",
+    "target": "CN",
+    "period": "2024",
+    "usd": 12060556727
+  },
+  {
+    "source": "ZA",
+    "target": "JP",
+    "period": "2024",
+    "usd": 4942008451
+  },
+  {
+    "source": "ZA",
+    "target": "DE",
+    "period": "2024",
+    "usd": 8412720579.999999
+  },
+  {
+    "source": "ZA",
+    "target": "GB",
+    "period": "2024",
+    "usd": 5461354606
+  },
+  {
+    "source": "ZA",
+    "target": "FR",
+    "period": "2024",
+    "usd": 558553487
+  },
+  {
+    "source": "ZA",
+    "target": "CA",
+    "period": "2024",
+    "usd": 496484146
+  },
+  {
+    "source": "ZA",
+    "target": "IN",
+    "period": "2024",
+    "usd": 4624860366
+  },
+  {
+    "source": "ZA",
+    "target": "BR",
+    "period": "2024",
+    "usd": 317647315
+  },
+  {
+    "source": "ZA",
+    "target": "SA",
+    "period": "2024",
+    "usd": 391853518
+  },
+  {
+    "source": "ZA",
+    "target": "AE",
+    "period": "2024",
+    "usd": 2715268277
+  },
+  {
+    "source": "ZA",
+    "target": "RU",
+    "period": "2024",
+    "usd": 296075693
+  },
+  {
+    "source": "ZA",
+    "target": "KR",
+    "period": "2024",
+    "usd": 1621097080
+  },
+  {
+    "source": "ZA",
+    "target": "SG",
+    "period": "2024",
+    "usd": 736052373
+  },
+  {
+    "source": "ZA",
+    "target": "CH",
+    "period": "2024",
+    "usd": 312651504
+  },
+  {
+    "source": "ZA",
+    "target": "NL",
+    "period": "2024",
+    "usd": 4207976898
+  },
+  {
+    "source": "ZA",
+    "target": "MX",
+    "period": "2024",
+    "usd": 265892432.99999997
+  },
+  {
+    "source": "ZA",
+    "target": "ID",
+    "period": "2024",
+    "usd": 379674142
+  },
+  {
+    "source": "ZA",
+    "target": "VN",
+    "period": "2024",
+    "usd": 570687536
+  },
+  {
+    "source": "ZA",
+    "target": "NG",
+    "period": "2024",
+    "usd": 381383974
+  },
+  {
+    "source": "ZA",
+    "target": "AU",
+    "period": "2024",
+    "usd": 1081817398
+  },
+  {
+    "source": "ZA",
+    "target": "QA",
+    "period": "2024",
+    "usd": 73510993
+  },
+  {
+    "source": "ZA",
+    "target": "NO",
+    "period": "2024",
+    "usd": 155207080
+  },
+  {
+    "source": "ZA",
+    "target": "KE",
+    "period": "2024",
+    "usd": 566534894
+  },
+  {
+    "source": "AU",
+    "target": "US",
+    "period": "2024",
+    "usd": 15674874312
+  },
+  {
+    "source": "AU",
+    "target": "CN",
+    "period": "2024",
+    "usd": 118159256723
+  },
+  {
+    "source": "AU",
+    "target": "JP",
+    "period": "2024",
+    "usd": 46681292147
+  },
+  {
+    "source": "AU",
+    "target": "DE",
+    "period": "2024",
+    "usd": 2199168786
+  },
+  {
+    "source": "AU",
+    "target": "GB",
+    "period": "2024",
+    "usd": 6386555902
+  },
+  {
+    "source": "AU",
+    "target": "FR",
+    "period": "2024",
+    "usd": 1618181153
+  },
+  {
+    "source": "AU",
+    "target": "CA",
+    "period": "2024",
+    "usd": 2054933366.0000002
+  },
+  {
+    "source": "AU",
+    "target": "IN",
+    "period": "2024",
+    "usd": 16445597408.000002
+  },
+  {
+    "source": "AU",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1162492174
+  },
+  {
+    "source": "AU",
+    "target": "SA",
+    "period": "2024",
+    "usd": 746124732
+  },
+  {
+    "source": "AU",
+    "target": "AE",
+    "period": "2024",
+    "usd": 3619366092
+  },
+  {
+    "source": "AU",
+    "target": "RU",
+    "period": "2024",
+    "usd": 1522349
+  },
+  {
+    "source": "AU",
+    "target": "KR",
+    "period": "2024",
+    "usd": 25050080786
+  },
+  {
+    "source": "AU",
+    "target": "SG",
+    "period": "2024",
+    "usd": 12238280109
+  },
+  {
+    "source": "AU",
+    "target": "CH",
+    "period": "2024",
+    "usd": 1364643017
+  },
+  {
+    "source": "AU",
+    "target": "NL",
+    "period": "2024",
+    "usd": 3542009358
+  },
+  {
+    "source": "AU",
+    "target": "MX",
+    "period": "2024",
+    "usd": 528706960
+  },
+  {
+    "source": "AU",
+    "target": "ID",
+    "period": "2024",
+    "usd": 8358746533
+  },
+  {
+    "source": "AU",
+    "target": "VN",
+    "period": "2024",
+    "usd": 6912255442
+  },
+  {
+    "source": "AU",
+    "target": "NG",
+    "period": "2024",
+    "usd": 23555848
+  },
+  {
+    "source": "AU",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 1204199797
+  },
+  {
+    "source": "AU",
+    "target": "QA",
+    "period": "2024",
+    "usd": 712717718
+  },
+  {
+    "source": "AU",
+    "target": "NO",
+    "period": "2024",
+    "usd": 210799026
+  },
+  {
+    "source": "AU",
+    "target": "KE",
+    "period": "2024",
+    "usd": 83211984
+  },
+  {
+    "source": "QA",
+    "target": "US",
+    "period": "2024",
+    "usd": 1503551937
+  },
+  {
+    "source": "QA",
+    "target": "CN",
+    "period": "2024",
+    "usd": 18925002669
+  },
+  {
+    "source": "QA",
+    "target": "JP",
+    "period": "2024",
+    "usd": 6719420155
+  },
+  {
+    "source": "QA",
+    "target": "DE",
+    "period": "2024",
+    "usd": 262949687.99999997
+  },
+  {
+    "source": "QA",
+    "target": "GB",
+    "period": "2024",
+    "usd": 625932243
+  },
+  {
+    "source": "QA",
+    "target": "FR",
+    "period": "2024",
+    "usd": 662241621
+  },
+  {
+    "source": "QA",
+    "target": "CA",
+    "period": "2024",
+    "usd": 7744408
+  },
+  {
+    "source": "QA",
+    "target": "IN",
+    "period": "2024",
+    "usd": 11151450139
+  },
+  {
+    "source": "QA",
+    "target": "BR",
+    "period": "2024",
+    "usd": 17626830
+  },
+  {
+    "source": "QA",
+    "target": "SA",
+    "period": "2024",
+    "usd": 1030953281.0000001
+  },
+  {
+    "source": "QA",
+    "target": "AE",
+    "period": "2024",
+    "usd": 6009863196
+  },
+  {
+    "source": "QA",
+    "target": "RU",
+    "period": "2024",
+    "usd": 2587815
+  },
+  {
+    "source": "QA",
+    "target": "KR",
+    "period": "2024",
+    "usd": 12824005685
+  },
+  {
+    "source": "QA",
+    "target": "SG",
+    "period": "2024",
+    "usd": 6667169989
+  },
+  {
+    "source": "QA",
+    "target": "CH",
+    "period": "2024",
+    "usd": 333411991
+  },
+  {
+    "source": "QA",
+    "target": "NL",
+    "period": "2024",
+    "usd": 318188750
+  },
+  {
+    "source": "QA",
+    "target": "MX",
+    "period": "2024",
+    "usd": 39034977
+  },
+  {
+    "source": "QA",
+    "target": "ID",
+    "period": "2024",
+    "usd": 429913185
+  },
+  {
+    "source": "QA",
+    "target": "VN",
+    "period": "2024",
+    "usd": 363123407
+  },
+  {
+    "source": "QA",
+    "target": "NG",
+    "period": "2024",
+    "usd": 49970336
+  },
+  {
+    "source": "QA",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 30302651
+  },
+  {
+    "source": "QA",
+    "target": "AU",
+    "period": "2024",
+    "usd": 160165004
+  },
+  {
+    "source": "QA",
+    "target": "NO",
+    "period": "2024",
+    "usd": 7507836
+  },
+  {
+    "source": "QA",
+    "target": "KE",
+    "period": "2024",
+    "usd": 26056843
+  },
+  {
+    "source": "NO",
+    "target": "US",
+    "period": "2024",
+    "usd": 5783446029
+  },
+  {
+    "source": "NO",
+    "target": "CN",
+    "period": "2024",
+    "usd": 3934096505
+  },
+  {
+    "source": "NO",
+    "target": "JP",
+    "period": "2024",
+    "usd": 815771768
+  },
+  {
+    "source": "NO",
+    "target": "DE",
+    "period": "2024",
+    "usd": 26075463022
+  },
+  {
+    "source": "NO",
+    "target": "GB",
+    "period": "2024",
+    "usd": 31499214115
+  },
+  {
+    "source": "NO",
+    "target": "FR",
+    "period": "2024",
+    "usd": 10470832474
+  },
+  {
+    "source": "NO",
+    "target": "CA",
+    "period": "2024",
+    "usd": 829130819
+  },
+  {
+    "source": "NO",
+    "target": "IN",
+    "period": "2024",
+    "usd": 371298997
+  },
+  {
+    "source": "NO",
+    "target": "BR",
+    "period": "2024",
+    "usd": 1056508869.9999999
+  },
+  {
+    "source": "NO",
+    "target": "SA",
+    "period": "2024",
+    "usd": 298177492
+  },
+  {
+    "source": "NO",
+    "target": "AE",
+    "period": "2024",
+    "usd": 445106774
+  },
+  {
+    "source": "NO",
+    "target": "RU",
+    "period": "2024",
+    "usd": 68827307
+  },
+  {
+    "source": "NO",
+    "target": "KR",
+    "period": "2024",
+    "usd": 1259385289
+  },
+  {
+    "source": "NO",
+    "target": "SG",
+    "period": "2024",
+    "usd": 514991454
+  },
+  {
+    "source": "NO",
+    "target": "CH",
+    "period": "2024",
+    "usd": 459175067
+  },
+  {
+    "source": "NO",
+    "target": "NL",
+    "period": "2024",
+    "usd": 17867892576
+  },
+  {
+    "source": "NO",
+    "target": "MX",
+    "period": "2024",
+    "usd": 209621062
+  },
+  {
+    "source": "NO",
+    "target": "ID",
+    "period": "2024",
+    "usd": 231031884
+  },
+  {
+    "source": "NO",
+    "target": "VN",
+    "period": "2024",
+    "usd": 456251092
+  },
+  {
+    "source": "NO",
+    "target": "NG",
+    "period": "2024",
+    "usd": 1067234649
+  },
+  {
+    "source": "NO",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 117235524
+  },
+  {
+    "source": "NO",
+    "target": "AU",
+    "period": "2024",
+    "usd": 363731222
+  },
+  {
+    "source": "NO",
+    "target": "QA",
+    "period": "2024",
+    "usd": 69173617
+  },
+  {
+    "source": "NO",
+    "target": "KE",
+    "period": "2024",
+    "usd": 15481746
+  },
+  {
+    "source": "KE",
+    "target": "US",
+    "period": "2024",
+    "usd": 687852003
+  },
+  {
+    "source": "KE",
+    "target": "CN",
+    "period": "2024",
+    "usd": 246001645
+  },
+  {
+    "source": "KE",
+    "target": "JP",
+    "period": "2024",
+    "usd": 51000012
+  },
+  {
+    "source": "KE",
+    "target": "DE",
+    "period": "2024",
+    "usd": 111516277
+  },
+  {
+    "source": "KE",
+    "target": "GB",
+    "period": "2024",
+    "usd": 617889775
+  },
+  {
+    "source": "KE",
+    "target": "FR",
+    "period": "2024",
+    "usd": 155982349
+  },
+  {
+    "source": "KE",
+    "target": "CA",
+    "period": "2024",
+    "usd": 62049872
+  },
+  {
+    "source": "KE",
+    "target": "IN",
+    "period": "2024",
+    "usd": 106816704
+  },
+  {
+    "source": "KE",
+    "target": "BR",
+    "period": "2024",
+    "usd": 3356744
+  },
+  {
+    "source": "KE",
+    "target": "SA",
+    "period": "2024",
+    "usd": 233742264
+  },
+  {
+    "source": "KE",
+    "target": "AE",
+    "period": "2024",
+    "usd": 801018477
+  },
+  {
+    "source": "KE",
+    "target": "RU",
+    "period": "2024",
+    "usd": 58212855
+  },
+  {
+    "source": "KE",
+    "target": "KR",
+    "period": "2024",
+    "usd": 33993699
+  },
+  {
+    "source": "KE",
+    "target": "SG",
+    "period": "2024",
+    "usd": 10627156
+  },
+  {
+    "source": "KE",
+    "target": "CH",
+    "period": "2024",
+    "usd": 57103482
+  },
+  {
+    "source": "KE",
+    "target": "NL",
+    "period": "2024",
+    "usd": 811062194
+  },
+  {
+    "source": "KE",
+    "target": "MX",
+    "period": "2024",
+    "usd": 18982022
+  },
+  {
+    "source": "KE",
+    "target": "ID",
+    "period": "2024",
+    "usd": 2159348
+  },
+  {
+    "source": "KE",
+    "target": "VN",
+    "period": "2024",
+    "usd": 26407052
+  },
+  {
+    "source": "KE",
+    "target": "NG",
+    "period": "2024",
+    "usd": 45788386
+  },
+  {
+    "source": "KE",
+    "target": "ZA",
+    "period": "2024",
+    "usd": 53140341
+  },
+  {
+    "source": "KE",
+    "target": "AU",
+    "period": "2024",
+    "usd": 30883289
+  },
+  {
+    "source": "KE",
+    "target": "QA",
+    "period": "2024",
+    "usd": 22996520
+  },
+  {
+    "source": "KE",
+    "target": "NO",
+    "period": "2024",
+    "usd": 35516077
+  }
+]
