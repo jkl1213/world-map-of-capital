@@ -19,6 +19,16 @@ const stories: [string, string, string][] = [
   ["GB", "QA", "Qatari gas money is a fixture of London: sovereign wealth from LNG sales is recycled into UK property, banks and blue-chip stocks."],
   ["US", "IN", "American capital is India's largest foreign backer - venture money, factory investment and Wall Street portfolio flows chasing its growth."],
   ["CH", "US", "Swiss banks and pharma giants park vast sums in US markets, while Switzerland serves as a safe-haven vault for global wealth."],
+  ["BE", "CN", "Brussels hosts Euroclear, the vault of global finance: Chinese-owned Treasuries sit in its custody accounts, invisible in China's own reported holdings."],
+  ["LU", "US", "Luxembourg is a fund passport, not a buyer: thousands of investment funds domiciled there hold US assets on behalf of investors everywhere."],
+  ["IE", "US", "The Dublin loop: US tech and pharma giants book European profits through Irish subsidiaries, making tiny Ireland a giant in cross-border capital."],
+  ["CN", "HK", "Hong Kong is the revolving door of Chinese finance - the mainland's stocks, bonds and banks meet global capital here first."],
+  ["CL", "CN", "Copper for construction: Chile feeds Chinese grids, buildings and EVs, tying the Andes to Beijing's business cycle."],
+  ["AR", "CN", "Soybeans sail west, credit flows east: China is Argentina's key commodity customer and a lender of last resort via currency swaps."],
+  ["ES", "GB", "Iberian banks and British capital are old partners: Santander and BBVA operate deep inside the UK market."],
+  ["AT", "CZ", "Vienna is Central Europe's banker: Austrian groups own much of the Czech, Hungarian and Balkan banking systems."],
+  ["KZ", "CN", "Kazakhstan is the land bridge of Belt & Road: Chinese pipelines and rail corridors carry Central Asian oil and freight east."],
+  ["IT", "DE", "The eurozone's industrial spine: Italian suppliers feed German factories, while German capital holds Italian debt."],
 ];
 
 export const flowStories = new Map<string, string>(

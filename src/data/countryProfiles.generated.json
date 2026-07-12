@@ -224,7 +224,10 @@
       "value": 552324919095.872,
       "year": "2024"
     },
-    "gdpGrowthPct": null,
+    "gdpGrowthPct": {
+      "value": 3.99181200361831,
+      "year": "2024"
+    },
     "gdpPerCapitaUsd": {
       "value": 50273.5126243239,
       "year": "2024"
@@ -243,7 +246,10 @@
       "value": 2561310169358.74,
       "year": "2025"
     },
-    "gdpGrowthPct": null,
+    "gdpGrowthPct": {
+      "value": 1.00117656925738,
+      "year": "2025"
+    },
     "gdpPerCapitaUsd": {
       "value": 17546.609375,
       "year": "2025"
@@ -274,10 +280,16 @@
       "value": 51684564,
       "year": "2025"
     },
-    "currentAccountPctGdp": null
+    "currentAccountPctGdp": {
+      "value": 6.57207036660681,
+      "year": "2025"
+    }
   },
   "SG": {
-    "gdpUsd": null,
+    "gdpUsd": {
+      "value": 603869516998.738,
+      "year": "2025"
+    },
     "gdpGrowthPct": {
       "value": 5.02588199508003,
       "year": "2025"
@@ -494,7 +506,10 @@
     }
   },
   "NO": {
-    "gdpUsd": null,
+    "gdpUsd": {
+      "value": 530755719438.879,
+      "year": "2025"
+    },
     "gdpGrowthPct": {
       "value": 1.08528185031417,
       "year": "2025"
@@ -532,6 +547,595 @@
     "currentAccountPctGdp": {
       "value": -1.28724447407872,
       "year": "2024"
+    }
+  },
+  "IT": {
+    "gdpUsd": {
+      "value": 2551556954100.35,
+      "year": "2025"
+    },
+    "gdpGrowthPct": null,
+    "gdpPerCapitaUsd": {
+      "value": 43308.6403060733,
+      "year": "2025"
+    },
+    "population": {
+      "value": 58915656,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": null
+  },
+  "ES": {
+    "gdpUsd": null,
+    "gdpGrowthPct": null,
+    "gdpPerCapitaUsd": {
+      "value": 38627.2472148623,
+      "year": "2025"
+    },
+    "population": null,
+    "currentAccountPctGdp": null
+  },
+  "SE": {
+    "gdpUsd": {
+      "value": 668998664082.081,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 1.54316373266217,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 63133.2126736715,
+      "year": "2025"
+    },
+    "population": {
+      "value": 10596620,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 6.05502404848928,
+      "year": "2025"
+    }
+  },
+  "BE": {
+    "gdpUsd": {
+      "value": 725466462859.646,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.983117967125935,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 60750.2735864647,
+      "year": "2025"
+    },
+    "population": {
+      "value": 11941781,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -1.93191084971895,
+      "year": "2025"
+    }
+  },
+  "IE": {
+    "gdpUsd": {
+      "value": 721701359046.313,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 12.3375990291434,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": null,
+    "population": {
+      "value": 5484367,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 17.3995604849009,
+      "year": "2024"
+    }
+  },
+  "AT": {
+    "gdpUsd": {
+      "value": 579470021095.418,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.615747280959056,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 62930.0351324599,
+      "year": "2025"
+    },
+    "population": {
+      "value": 9208163,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 1.79486379964928,
+      "year": "2025"
+    }
+  },
+  "LU": {
+    "gdpUsd": {
+      "value": 101157829491.107,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.63787818818335,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 147252.179121515,
+      "year": "2025"
+    },
+    "population": {
+      "value": 686970,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 5.22750381893688,
+      "year": "2025"
+    }
+  },
+  "DK": {
+    "gdpUsd": {
+      "value": 462526660468.393,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.92843280014236,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 76970.1535217919,
+      "year": "2025"
+    },
+    "population": {
+      "value": 6009169,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 12.1952284849278,
+      "year": "2024"
+    }
+  },
+  "FI": {
+    "gdpUsd": {
+      "value": 317039368819.607,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.173444509584499,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 56148.580949046,
+      "year": "2025"
+    },
+    "population": {
+      "value": 5646436,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 1.33573789571074,
+      "year": "2025"
+    }
+  },
+  "GR": {
+    "gdpUsd": {
+      "value": 280635521324.441,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.07306882481713,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 26948.0070432791,
+      "year": "2025"
+    },
+    "population": {
+      "value": 10413962,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -7.10950344070576,
+      "year": "2024"
+    }
+  },
+  "HK": {
+    "gdpUsd": {
+      "value": 427310315921.993,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 3.48764886355949,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 56983.0663059906,
+      "year": "2025"
+    },
+    "population": {
+      "value": 7498900,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 13.3384324463252,
+      "year": "2024"
+    }
+  },
+  "PH": {
+    "gdpUsd": {
+      "value": 487086123720.417,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 4.40240158710621,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 4170.72347271451,
+      "year": "2025"
+    },
+    "population": {
+      "value": 116786962,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -3.34449841700068,
+      "year": "2025"
+    }
+  },
+  "CL": {
+    "gdpUsd": {
+      "value": 357371159574.862,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.45925474781374,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 17994.5911957485,
+      "year": "2025"
+    },
+    "population": {
+      "value": 19859921,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -1.21688011748722,
+      "year": "2025"
+    }
+  },
+  "TR": {
+    "gdpUsd": {
+      "value": 1597293229287,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 3.60462514082589,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 18599.4420922378,
+      "year": "2025"
+    },
+    "population": {
+      "value": 85878556,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -0.766008235540632,
+      "year": "2024"
+    }
+  },
+  "PL": {
+    "gdpUsd": {
+      "value": 1035491784197.44,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 3.5727250346774,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 28419.5777395638,
+      "year": "2025"
+    },
+    "population": {
+      "value": 36435861,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -0.874270577338915,
+      "year": "2025"
+    }
+  },
+  "PT": {
+    "gdpUsd": {
+      "value": 346639825141.821,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 1.86448007464475,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 32081.8106150292,
+      "year": "2025"
+    },
+    "population": {
+      "value": 10804871,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 2.07520783148021,
+      "year": "2024"
+    }
+  },
+  "CZ": {
+    "gdpUsd": {
+      "value": 391026962800.475,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.58046673293437,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 35917.2724081665,
+      "year": "2025"
+    },
+    "population": {
+      "value": 10886878,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 0.624791974567142,
+      "year": "2025"
+    }
+  },
+  "HU": {
+    "gdpUsd": {
+      "value": 246490213513.054,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.509542309726868,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 25907.4743259406,
+      "year": "2025"
+    },
+    "population": {
+      "value": 9514251,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 1.6548423815673,
+      "year": "2025"
+    }
+  },
+  "TH": {
+    "gdpUsd": {
+      "value": 577009981112.015,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.44247444990198,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": null,
+    "population": null,
+    "currentAccountPctGdp": {
+      "value": 2.76290010089629,
+      "year": "2025"
+    }
+  },
+  "MY": {
+    "gdpUsd": {
+      "value": 472193128644.597,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 5.17127082911057,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 13124.5554178269,
+      "year": "2025"
+    },
+    "population": {
+      "value": 35977838,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 1.69342393177115,
+      "year": "2024"
+    }
+  },
+  "AR": {
+    "gdpUsd": {
+      "value": 683097891618.597,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 4.36733330217022,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 14898.0885943842,
+      "year": "2025"
+    },
+    "population": {
+      "value": 45851378,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -1.10988825977293,
+      "year": "2025"
+    }
+  },
+  "CO": {
+    "gdpUsd": {
+      "value": 457410034202.523,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.64201548985928,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 8561.62091854449,
+      "year": "2025"
+    },
+    "population": {
+      "value": 53425635,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -2.37924247045499,
+      "year": "2025"
+    }
+  },
+  "EG": {
+    "gdpUsd": {
+      "value": 365254630179.737,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 4.39201068570188,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 3085.80712036204,
+      "year": "2025"
+    },
+    "population": {
+      "value": 118365995,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -3.81547628555514,
+      "year": "2025"
+    }
+  },
+  "IL": {
+    "gdpUsd": {
+      "value": 610777842873.595,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.93114966387968,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 60336.8477964194,
+      "year": "2025"
+    },
+    "population": {
+      "value": 10122800,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 1.39698911798375,
+      "year": "2025"
+    }
+  },
+  "PK": {
+    "gdpUsd": {
+      "value": 407307214476.222,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 3.69842668749033,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 1595.90912252837,
+      "year": "2025"
+    },
+    "population": {
+      "value": 255219554,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -0.109990064562897,
+      "year": "2025"
+    }
+  },
+  "NZ": {
+    "gdpUsd": {
+      "value": 264057413739.965,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 0.462871830681081,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 49591.0405731713,
+      "year": "2025"
+    },
+    "population": {
+      "value": 5324700,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -3.61936128781643,
+      "year": "2025"
+    }
+  },
+  "KW": {
+    "gdpUsd": {
+      "value": 157209026926.418,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 2.731825804492,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 32312.3119953634,
+      "year": "2025"
+    },
+    "population": {
+      "value": 4865298,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": 22.6972052506544,
+      "year": "2025"
+    }
+  },
+  "KZ": {
+    "gdpUsd": {
+      "value": 306239209650.024,
+      "year": "2025"
+    },
+    "gdpGrowthPct": {
+      "value": 6.5,
+      "year": "2025"
+    },
+    "gdpPerCapitaUsd": {
+      "value": 14692.1331757237,
+      "year": "2025"
+    },
+    "population": {
+      "value": 20843754,
+      "year": "2025"
+    },
+    "currentAccountPctGdp": {
+      "value": -4.06579066364776,
+      "year": "2025"
     }
   }
 }

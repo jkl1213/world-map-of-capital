@@ -91,56 +91,56 @@ export default function DataSourcesPage() {
                 <td className="px-3 py-2"><Dot assetClass="bond" />Bonds</td>
                 <td className="px-3 py-2">IMF CPIS</td>
                 <td className="px-3 py-2">mostly mid-2024</td>
-                <td className="px-3 py-2 font-mono">323</td>
+                <td className="px-3 py-2 font-mono">1,285</td>
                 <td className="px-3 py-2">holdings (stock)</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="equity" />Equities</td>
                 <td className="px-3 py-2">IMF CPIS</td>
                 <td className="px-3 py-2">mostly mid-2024</td>
-                <td className="px-3 py-2 font-mono">336</td>
+                <td className="px-3 py-2 font-mono">1,204</td>
                 <td className="px-3 py-2">holdings (stock)</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="banking" />Bank lending</td>
                 <td className="px-3 py-2">BIS LBS</td>
                 <td className="px-3 py-2">Q4 2024</td>
-                <td className="px-3 py-2 font-mono">249</td>
+                <td className="px-3 py-2 font-mono">914</td>
                 <td className="px-3 py-2">claims (stock)</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="trade" />Trade</td>
                 <td className="px-3 py-2">IMF DOT</td>
                 <td className="px-3 py-2">2024</td>
-                <td className="px-3 py-2 font-mono">561</td>
+                <td className="px-3 py-2 font-mono">2,390</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="commodity" />Fossil fuels</td>
                 <td className="px-3 py-2">UN Comtrade</td>
                 <td className="px-3 py-2">2023</td>
-                <td className="px-3 py-2 font-mono">70</td>
+                <td className="px-3 py-2 font-mono">211</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="ores" />Ores &amp; metals</td>
                 <td className="px-3 py-2">UN Comtrade</td>
                 <td className="px-3 py-2">2023</td>
-                <td className="px-3 py-2 font-mono">45</td>
+                <td className="px-3 py-2 font-mono">93</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="agri" />Agriculture</td>
                 <td className="px-3 py-2">UN Comtrade</td>
                 <td className="px-3 py-2">2023</td>
-                <td className="px-3 py-2 font-mono">74</td>
+                <td className="px-3 py-2 font-mono">201</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
                 <td className="px-3 py-2"><Dot assetClass="gold" />Gold &amp; precious</td>
                 <td className="px-3 py-2">UN Comtrade</td>
                 <td className="px-3 py-2">2023</td>
-                <td className="px-3 py-2 font-mono">50</td>
+                <td className="px-3 py-2 font-mono">107</td>
                 <td className="px-3 py-2">annual flow</td>
               </tr>
               <tr className="border-b border-white/5">
@@ -162,7 +162,7 @@ export default function DataSourcesPage() {
         </div>
         <p className="mt-2 text-xs text-slate-500">
           All magnitudes are shown in billions of US dollars, rounded to $0.1bn. The map
-          covers 25 major economies (600 possible directed country pairs per layer).
+          covers 53 major economies (2,756 possible directed country pairs per layer).
         </p>
 
         {/* ------------------------------------------------ CPIS */}
@@ -202,13 +202,14 @@ export default function DataSourcesPage() {
             for ~80% of pairs, late-2023 or older for slower reporters.
           </p>
           <p>
-            <strong className="text-slate-200">Known weaknesses:</strong> 20 of our 25
+            <strong className="text-slate-200">Known weaknesses:</strong> 48 of our 53
             countries participate; the UAE, Qatar, Vietnam, Nigeria and Kenya don&apos;t
             report, so their outbound holdings are missing entirely. More importantly,
-            CPIS records the <em>custodian&apos;s</em> location when assets are held via
-            third countries, and some governments simply under-report: China&apos;s
-            reported US bond holdings here ($142.9bn) are far below the ~$770bn the US
-            Treasury&apos;s own{" "}
+            fund domiciles distort ownership: Luxembourg ($701bn of US debt) and Ireland
+            ($808bn) &ldquo;hold&rdquo; assets that belong economically to fund investors
+            all over the world, because the funds themselves are resident there. And some
+            governments simply under-report: China&apos;s reported US bond holdings here
+            ($142.9bn) are far below the ~$770bn the US Treasury&apos;s own{" "}
             <ExtLink href="https://ticdata.treasury.gov/resource-center/data-chart-center/tic/Documents/mfh.txt">
               TIC survey
             </ExtLink>{" "}
@@ -238,10 +239,11 @@ export default function DataSourcesPage() {
             (dataset <code className="rounded bg-white/5 px-1 font-mono text-[12px]">WS_LBS_D_PUB</code>).
           </p>
           <p>
-            <strong className="text-slate-200">Known weaknesses:</strong> only 13 of our
-            25 countries are BIS reporting jurisdictions &mdash; China, India, Russia, the
-            Gulf states and most emerging markets don&apos;t report, so arrows <em>from</em>{" "}
-            those countries&apos; banks are absent (they still appear as borrowers).
+            <strong className="text-slate-200">Known weaknesses:</strong> only 26 of our
+            53 countries are BIS reporting jurisdictions &mdash; China, India, Russia,
+            Türkiye, the Gulf states and most emerging markets don&apos;t report, so
+            arrows <em>from</em> those countries&apos; banks are absent (they still
+            appear as borrowers).
             Financial centers (UK, Switzerland, Netherlands, Singapore) look enormous
             partly because global banks book business through them.
           </p>
@@ -258,10 +260,10 @@ export default function DataSourcesPage() {
             records annual merchandise exports between every pair of countries, valued
             free-on-board (FOB). &ldquo;A &rarr; B&rdquo; means goods worth that much were
             shipped from A to B during 2024. The IMF fills gaps with partner-country
-            reports and estimates, which is why this layer achieves full 600/600-pair
-            coverage &mdash; including the US, France, India, Switzerland and Norway,
-            which the free tier of UN Comtrade (our original source) turned out to exclude
-            entirely. Fetched via DBnomics, series{" "}
+            reports and estimates, which is why this layer achieves near-complete
+            coverage of all 53 countries &mdash; including the US, France, India,
+            Switzerland and Norway, which the free tier of UN Comtrade (our original
+            source) turned out to exclude entirely. Fetched via DBnomics, series{" "}
             <code className="rounded bg-white/5 px-1 font-mono text-[12px]">A.&#123;reporter&#125;.TXG_FOB_USD.&#123;partner&#125;</code>.
           </p>
           <p>
@@ -289,29 +291,32 @@ export default function DataSourcesPage() {
             Four layers isolate specific product groups from the{" "}
             <ExtLink href="https://comtradeplus.un.org/">UN Comtrade</ExtLink> public API
             (2023 annual values), each fetched for the plausible major exporters among
-            our 25 countries:
+            our 53 countries:
           </p>
           <ul className="list-disc space-y-1.5 pl-5">
             <li>
               <strong className="text-slate-200">Fossil fuels (HS 27)</strong> &mdash;
               crude oil, gas, coal, refined products. Exporters: Saudi Arabia, UAE,
-              Russia, Norway, Qatar, Australia.
+              Russia, Qatar, Australia, Kazakhstan, Colombia, Kuwait (Norway is a major
+              exporter but the free tier returns nothing for it).
             </li>
             <li>
               <strong className="text-slate-200">Ores &amp; metals (HS 26)</strong> &mdash;
               iron ore, copper, nickel, lithium. Exporters: Australia, Brazil, South
-              Africa, Canada, Indonesia, Russia. Australia&rarr;China ($89.7bn, mostly
-              iron ore) is the largest non-fuel commodity corridor in the world.
+              Africa, Canada, Indonesia, Russia, Chile, Kazakhstan. Australia&rarr;China
+              ($89.7bn, mostly iron ore) is the largest non-fuel commodity corridor in
+              the world.
             </li>
             <li>
               <strong className="text-slate-200">Agriculture (HS 10+12+15)</strong> &mdash;
               cereals, oilseeds and vegetable oils (wheat, corn, soybeans, palm oil).
-              Exporters: Brazil, Russia, Canada, Australia, Indonesia, Vietnam.
+              Exporters: Brazil, Russia, Canada, Australia, Indonesia, Vietnam,
+              Argentina, Malaysia, Thailand.
             </li>
             <li>
               <strong className="text-slate-200">Gold &amp; precious (HS 71)</strong> &mdash;
               gold bullion, silver, platinum, diamonds. Exporters: UAE, South Africa,
-              Australia, UK, Singapore, Canada.
+              Australia, UK, Singapore, Canada, Hong Kong.
             </li>
           </ul>
           <p>
@@ -504,9 +509,10 @@ export default function DataSourcesPage() {
           </p>
           <ul className="list-disc space-y-1.5 pl-5 font-mono text-[13px] text-slate-400">
             <li>fetch-real-data.mjs &mdash; CPIS bonds/equities + BIS banking via DBnomics</li>
-            <li>fetch-dot-trade.mjs &mdash; IMF DOT trade, all 600 pairs</li>
+            <li>fetch-dot-trade.mjs &mdash; IMF DOT trade, original 600 pairs</li>
             <li>fetch-trade-corrected.mjs &mdash; UN Comtrade HS27 fossil fuels (resumable)</li>
             <li>fetch-commodities-extra.mjs &mdash; UN Comtrade ores/agriculture/gold (resumable)</li>
+            <li>fetch-expansion.mjs &mdash; CPIS/BIS/DOT for the 28-country expansion (resumable)</li>
             <li>fetch-country-profiles.mjs &mdash; World Bank country indicators</li>
             <li>build-flows.mjs &mdash; applies floors, rounding, and source notes</li>
           </ul>

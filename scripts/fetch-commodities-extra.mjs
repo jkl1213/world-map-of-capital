@@ -30,15 +30,36 @@ const countries = [
   { id: "VN", m49: 704 }, { id: "NG", m49: 566 }, { id: "ZA", m49: 710 },
   { id: "AU", m49: 36 }, { id: "QA", m49: 634 }, { id: "NO", m49: 578 },
   { id: "KE", m49: 404 },
+  // 2026-07 expansion
+  { id: "IT", m49: 380 }, { id: "ES", m49: 724 }, { id: "SE", m49: 752 },
+  { id: "BE", m49: 56 }, { id: "IE", m49: 372 }, { id: "AT", m49: 40 },
+  { id: "LU", m49: 442 }, { id: "DK", m49: 208 }, { id: "FI", m49: 246 },
+  { id: "GR", m49: 300 }, { id: "HK", m49: 344 }, { id: "PH", m49: 608 },
+  { id: "CL", m49: 152 }, { id: "TR", m49: 792 }, { id: "PL", m49: 616 },
+  { id: "PT", m49: 620 }, { id: "CZ", m49: 203 }, { id: "HU", m49: 348 },
+  { id: "TH", m49: 764 }, { id: "MY", m49: 458 }, { id: "AR", m49: 32 },
+  { id: "CO", m49: 170 }, { id: "EG", m49: 818 }, { id: "IL", m49: 376 },
+  { id: "PK", m49: 586 }, { id: "NZ", m49: 554 }, { id: "KW", m49: 414 },
+  { id: "KZ", m49: 398 },
 ];
+
+// The original 25-country roster: fuel pairs among these are already covered by
+// fetch-trade-corrected.mjs (output/trade-checkpoint.json) and must not be re-fetched.
+const ORIGINAL_25 = new Set([
+  "US", "CN", "JP", "DE", "GB", "FR", "CA", "IN", "BR", "SA", "AE", "RU",
+  "KR", "SG", "CH", "NL", "MX", "ID", "VN", "NG", "ZA", "AU", "QA", "NO", "KE",
+]);
 
 // Structurally excluded from the free tier - verified zero records in any role.
 const EXCLUDED = new Set(["US", "FR", "IN", "CH", "NO"]);
 
 const CATEGORIES = {
-  ores: { cmdCode: "26", exporters: ["AU", "BR", "ZA", "CA", "ID", "RU"] },
-  agri: { cmdCode: "10,12,15", exporters: ["BR", "RU", "CA", "AU", "ID", "VN"] },
-  gold: { cmdCode: "71", exporters: ["AE", "ZA", "AU", "GB", "SG", "CA"] },
+  ores: { cmdCode: "26", exporters: ["AU", "BR", "ZA", "CA", "ID", "RU", "CL", "KZ"] },
+  agri: { cmdCode: "10,12,15", exporters: ["BR", "RU", "CA", "AU", "ID", "VN", "AR", "MY", "TH"] },
+  gold: { cmdCode: "71", exporters: ["AE", "ZA", "AU", "GB", "SG", "CA", "HK"] },
+  // HS 27 pairs NOT already covered by the original fuels fetch: new exporters
+  // (Kazakhstan, Colombia, Kuwait) to everyone, and original exporters to new partners.
+  fuel: { cmdCode: "27", exporters: ["SA", "AE", "RU", "QA", "AU", "KZ", "CO", "KW"], skipOriginalPairs: true },
 };
 
 const BASE_DELAY_MS = 800;
@@ -148,11 +169,12 @@ async function main() {
   for (const cat of Object.keys(CATEGORIES)) cp[cat] ??= {};
 
   const jobs = [];
-  for (const [cat, { cmdCode, exporters }] of Object.entries(CATEGORIES)) {
+  for (const [cat, { cmdCode, exporters, skipOriginalPairs }] of Object.entries(CATEGORIES)) {
     for (const expId of exporters) {
       const exp = countries.find((c) => c.id === expId);
       for (const imp of countries) {
         if (imp.id === expId) continue;
+        if (skipOriginalPairs && ORIGINAL_25.has(expId) && ORIGINAL_25.has(imp.id)) continue;
         jobs.push({ cat, cmdCode, exp, imp });
       }
     }

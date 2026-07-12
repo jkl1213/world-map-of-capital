@@ -13,6 +13,12 @@ const countryNames = {
   AE: "the United Arab Emirates", RU: "Russia", KR: "South Korea", SG: "Singapore",
   CH: "Switzerland", NL: "the Netherlands", MX: "Mexico", ID: "Indonesia", VN: "Vietnam",
   NG: "Nigeria", ZA: "South Africa", AU: "Australia", QA: "Qatar", NO: "Norway", KE: "Kenya",
+  IT: "Italy", ES: "Spain", SE: "Sweden", BE: "Belgium", IE: "Ireland", AT: "Austria",
+  LU: "Luxembourg", DK: "Denmark", FI: "Finland", GR: "Greece", HK: "Hong Kong",
+  PH: "the Philippines", CL: "Chile", TR: "Türkiye", PL: "Poland", PT: "Portugal",
+  CZ: "Czechia", HU: "Hungary", TH: "Thailand", MY: "Malaysia", AR: "Argentina",
+  CO: "Colombia", EG: "Egypt", IL: "Israel", PK: "Pakistan", NZ: "New Zealand",
+  KW: "Kuwait", KZ: "Kazakhstan",
 };
 
 const FLOORS_USD = {
@@ -55,14 +61,30 @@ async function main() {
   );
 
   // Extra commodity categories (ores/agri/gold) live in their own output file,
-  // written incrementally by fetch-commodities-extra.mjs; merge if present.
+  // written incrementally by fetch-commodities-extra.mjs; merge if present. Its "fuel"
+  // key holds HS27 pairs the original fuels fetch didn't cover (expansion countries),
+  // which extend the commodity class.
   try {
     const extra = JSON.parse(
       await readFile(new URL("./output/commodities-extra.json", import.meta.url), "utf8")
     );
     for (const cat of ["ores", "agri", "gold"]) raw[cat] = extra[cat] ?? [];
+    raw.commodity = [...(raw.commodity ?? []), ...(extra.fuel ?? [])];
   } catch {
     console.log("(no commodities-extra.json yet - skipping ores/agri/gold)");
+  }
+
+  // Expansion pairs (2026-07, 25 -> 53 countries) for bond/equity/banking/trade,
+  // fetched by fetch-expansion.mjs; merge if present.
+  try {
+    const exp = JSON.parse(
+      await readFile(new URL("./output/expansion-flows.json", import.meta.url), "utf8")
+    );
+    for (const cls of ["bond", "equity", "banking", "trade"]) {
+      raw[cls] = [...(raw[cls] ?? []), ...(exp[cls] ?? [])];
+    }
+  } catch {
+    console.log("(no expansion-flows.json yet - original 25 countries only)");
   }
 
   const flows = [];

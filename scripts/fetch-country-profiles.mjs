@@ -15,6 +15,17 @@ const countries = [
   { id: "VN", iso3: "VNM" }, { id: "NG", iso3: "NGA" }, { id: "ZA", iso3: "ZAF" },
   { id: "AU", iso3: "AUS" }, { id: "QA", iso3: "QAT" }, { id: "NO", iso3: "NOR" },
   { id: "KE", iso3: "KEN" },
+  // 2026-07 expansion
+  { id: "IT", iso3: "ITA" }, { id: "ES", iso3: "ESP" }, { id: "SE", iso3: "SWE" },
+  { id: "BE", iso3: "BEL" }, { id: "IE", iso3: "IRL" }, { id: "AT", iso3: "AUT" },
+  { id: "LU", iso3: "LUX" }, { id: "DK", iso3: "DNK" }, { id: "FI", iso3: "FIN" },
+  { id: "GR", iso3: "GRC" }, { id: "HK", iso3: "HKG" }, { id: "PH", iso3: "PHL" },
+  { id: "CL", iso3: "CHL" }, { id: "TR", iso3: "TUR" }, { id: "PL", iso3: "POL" },
+  { id: "PT", iso3: "PRT" }, { id: "CZ", iso3: "CZE" }, { id: "HU", iso3: "HUN" },
+  { id: "TH", iso3: "THA" }, { id: "MY", iso3: "MYS" }, { id: "AR", iso3: "ARG" },
+  { id: "CO", iso3: "COL" }, { id: "EG", iso3: "EGY" }, { id: "IL", iso3: "ISR" },
+  { id: "PK", iso3: "PAK" }, { id: "NZ", iso3: "NZL" }, { id: "KW", iso3: "KWT" },
+  { id: "KZ", iso3: "KAZ" },
 ];
 
 const indicators = {
